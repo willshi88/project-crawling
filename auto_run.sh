@@ -6,11 +6,10 @@
 # show run time
 echo -e "\n----------Run Time:----------"
 date
-cd /home/li/code/github/Github-Ranking
+cd /Users/willbegooooood/Desktop/project-crawling
 git pull
-source /home/li/tf36/bin/activate
 python source/process.py
 git add .
 today=`date +"%Y-%m-%d"`
 git commit -m "auto update $today"
-git push origin master
+git push
