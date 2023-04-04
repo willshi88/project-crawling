@@ -63,8 +63,6 @@ class ProcessorGQL(object):
         """
         self.bulk_size = 50
         self.bulk_count = 2
-        # self.gql_stars = self.gql_format % ("stars:>1000 sort:stars", self.bulk_size, "%s")
-        # self.gql_forks = self.gql_format % ("forks:>1000 sort:forks", self.bulk_size, "%s")
         self.gql_stars_lang = self.gql_format % ("language:%s stars:>0 sort:stars", self.bulk_size, "%s")
 
         self.col = ['rank', 'item', 'repo_name', 'stars', 'forks', 'language', 'repo_url', 'username', 'issues',
@@ -100,14 +98,7 @@ class ProcessorGQL(object):
         return repos
 
     def get_all_repos(self):
-        # get all repos of most stars and forks, and different languages
-        # print("Get repos of most stars...")
-        # repos_stars = self.get_repos(self.gql_stars)
-        # print("Get repos of most stars success!")
-        #
-        # print("Get repos of most forks...")
-        # repos_forks = self.get_repos(self.gql_forks)
-        # print("Get repos of most forks success!")
+        # get all repos of different languages
 
         repos_languages = {}
         for lang in languages:
@@ -149,8 +140,7 @@ class WriteFile(object):
 
             ## Table of Contents
 
-            * [Most Stars](#most-stars)
-            * [Most Forks](#most-forks)""".format(write_time=write_time)) + table_of_contents
+            """.format(write_time=write_time)) + table_of_contents
         write_text("../README.md", 'w', head_contents)
 
     def write_readme_lang_md(self):
