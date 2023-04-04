@@ -40,7 +40,7 @@
 | 33 | [nft-mix](https://github.com/PatrickAlphaC/nft-mix) | 804 | 418 | Solidity | 11 | None | 2022-04-25T02:11:34Z |
 | 34 | [hashlips_nft_contract](https://github.com/HashLips/hashlips_nft_contract) | 800 | 677 | Solidity | 48 | A simple NFT smart contract that works with the rest of the HashLips ecosystem. | 2022-10-23T16:20:12Z |
 | 35 | [ethereum-api](https://github.com/provable-things/ethereum-api) | 765 | 427 | Solidity | 11 | Provable API for Ethereum smart contracts | 2023-02-16T21:45:20Z |
-| 36 | [unlock](https://github.com/unlock-protocol/unlock) | 744 | 194 | Solidity | 115 | Ʉnlock is a protocol for memberships built on a blockchain. | 2023-04-04T00:38:10Z |
+| 36 | [unlock](https://github.com/unlock-protocol/unlock) | 744 | 194 | Solidity | 116 | Ʉnlock is a protocol for memberships built on a blockchain. | 2023-04-04T00:56:36Z |
 | 37 | [defi-sdk](https://github.com/zeriontech/defi-sdk) | 731 | 228 | Solidity | 23 | DeFi SDK Makes Money Lego Work | 2023-03-03T13:44:27Z |
 | 38 | [SWC-registry](https://github.com/SmartContractSecurity/SWC-registry) | 720 | 143 | Solidity | 15 | Smart Contract Weakness Classification and Test Cases | 2023-03-07T16:23:27Z |
 | 39 | [olympus-contracts](https://github.com/OlympusDAO/olympus-contracts) | 716 | 949 | Solidity | 42 | None | 2023-01-25T20:06:27Z |
@@ -77,8 +77,8 @@
 | 70 | [securify2](https://github.com/eth-sri/securify2) | 480 | 98 | Solidity | 32 | Securify v2.0 | 2022-08-28T02:30:55Z |
 | 71 | [permit2](https://github.com/Uniswap/permit2) | 480 | 65 | Solidity | 4 | 🔑🔑🔑 next generation token approvals mechanism | 2023-03-08T18:00:31Z |
 | 72 | [optimism-tutorial](https://github.com/ethereum-optimism/optimism-tutorial) | 465 | 185 | Solidity | 1 | Build your first app on Optimism! | 2023-03-27T20:54:54Z |
-| 73 | [argent-contracts](https://github.com/argentlabs/argent-contracts) | 464 | 158 | Solidity | 4 | Smart Contracts for Argent Wallet | 2023-03-12T11:12:24Z |
-| 74 | [ctf-blockchain](https://github.com/minaminao/ctf-blockchain) | 464 | 33 | Solidity | 0 | A summary of 100+ CTF blockchain challenges | 2023-04-01T01:04:50Z |
+| 73 | [ctf-blockchain](https://github.com/minaminao/ctf-blockchain) | 464 | 33 | Solidity | 0 | A summary of 100+ CTF blockchain challenges | 2023-04-01T01:04:50Z |
+| 74 | [argent-contracts](https://github.com/argentlabs/argent-contracts) | 464 | 158 | Solidity | 4 | Smart Contracts for Argent Wallet | 2023-03-12T11:12:24Z |
 | 75 | [1inchProtocol](https://github.com/1inch/1inchProtocol) | 458 | 270 | Solidity | 40 | 1inch Protocol – fully on-chain DeFi aggregation protocol | 2021-10-27T22:22:40Z |
 | 76 | [sMEV](https://github.com/bertmiller/sMEV) | 448 | 102 | Solidity | 1 | None | 2021-09-06T10:59:41Z |
 | 77 | [chainlink-mix](https://github.com/smartcontractkit/chainlink-mix) | 447 | 178 | Solidity | 9 | Working with smart contracts with eth-brownie, python, and Chainlink.  | 2023-02-08T20:58:39Z |

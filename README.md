@@ -3,7 +3,7 @@
 
 **A list of the most github stars and forks repositories.**
 
-*Last Update Time: 2023-04-04T00:53:49Z*
+*Last Update Time: 2023-04-04T01:23:11Z*
 
 ## Table of Contents
 * [Solidity](#solidity)
@@ -54,16 +54,16 @@ This is top 10, for more click **[Top 100 Stars in Rust](Top100/Rust.md)**
 
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
-| 1 | [deno](https://github.com/denoland/deno) | 88770 | 4810 | Rust | 1216 | A modern runtime for JavaScript and TypeScript. | 2023-04-04T00:31:18Z |
-| 2 | [rust](https://github.com/rust-lang/rust) | 79778 | 10593 | Rust | 8860 | Empowering everyone to build reliable and efficient software. | 2023-04-04T00:34:48Z |
-| 3 | [alacritty](https://github.com/alacritty/alacritty) | 45837 | 2734 | Rust | 304 | A cross-platform, OpenGL terminal emulator. | 2023-04-03T22:58:07Z |
-| 4 | [bat](https://github.com/sharkdp/bat) | 40507 | 1060 | Rust | 176 | A cat(1) clone with wings. | 2023-04-01T02:58:15Z |
-| 5 | [rustdesk](https://github.com/rustdesk/rustdesk) | 40123 | 3798 | Rust | 114 | Virtual / remote desktop infrastructure for everyone! Open source TeamViewer / Citrix alternative. | 2023-04-04T00:15:09Z |
-| 6 | [ripgrep](https://github.com/BurntSushi/ripgrep) | 36963 | 1653 | Rust | 143 | ripgrep recursively searches directories for a regex pattern while respecting your gitignore | 2023-04-03T19:13:14Z |
-| 7 | [rustlings](https://github.com/rust-lang/rustlings) | 36602 | 6266 | Rust | 92 | :crab: Small exercises to get you used to reading and writing Rust code! | 2023-04-02T10:46:50Z |
-| 8 | [awesome-rust](https://github.com/rust-unofficial/awesome-rust) | 33628 | 2135 | Rust | 11 | A curated list of Rust code and resources. | 2023-04-03T19:45:14Z |
-| 9 | [starship](https://github.com/starship/starship) | 33508 | 1434 | Rust | 419 | ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell! | 2023-04-03T20:43:15Z |
-| 10 | [ChatGPT](https://github.com/lencx/ChatGPT) | 29272 | 2993 | Rust | 289 | 🔮 ChatGPT Desktop Application (Mac, Windows and Linux) | 2023-04-02T04:55:01Z |
+| 1 | [deno](https://github.com/denoland/deno) | 88772 | 4810 | Rust | 1216 | A modern runtime for JavaScript and TypeScript. | 2023-04-04T01:05:12Z |
+| 2 | [rust](https://github.com/rust-lang/rust) | 79778 | 10593 | Rust | 8858 | Empowering everyone to build reliable and efficient software. | 2023-04-04T01:21:26Z |
+| 3 | [tauri](https://github.com/tauri-apps/tauri) | 61731 | 1638 | Rust | 393 | Build smaller, faster, and more secure desktop applications with a web frontend. | 2023-04-04T00:17:18Z |
+| 4 | [alacritty](https://github.com/alacritty/alacritty) | 45837 | 2734 | Rust | 304 | A cross-platform, OpenGL terminal emulator. | 2023-04-03T22:58:07Z |
+| 5 | [bat](https://github.com/sharkdp/bat) | 40507 | 1060 | Rust | 176 | A cat(1) clone with wings. | 2023-04-01T02:58:15Z |
+| 6 | [rustdesk](https://github.com/rustdesk/rustdesk) | 40126 | 3798 | Rust | 114 | Virtual / remote desktop infrastructure for everyone! Open source TeamViewer / Citrix alternative. | 2023-04-04T00:15:09Z |
+| 7 | [ripgrep](https://github.com/BurntSushi/ripgrep) | 36964 | 1653 | Rust | 143 | ripgrep recursively searches directories for a regex pattern while respecting your gitignore | 2023-04-03T19:13:14Z |
+| 8 | [rustlings](https://github.com/rust-lang/rustlings) | 36602 | 6266 | Rust | 92 | :crab: Small exercises to get you used to reading and writing Rust code! | 2023-04-02T10:46:50Z |
+| 9 | [meilisearch](https://github.com/meilisearch/meilisearch) | 35355 | 1276 | Rust | 115 | A lightning-fast search engine that fits effortlessly into your apps, websites, and workflow. | 2023-04-03T19:14:45Z |
+| 10 | [awesome-rust](https://github.com/rust-unofficial/awesome-rust) | 33628 | 2135 | Rust | 11 | A curated list of Rust code and resources. | 2023-04-03T19:45:14Z |
 
 
 ## Move
@@ -77,7 +77,7 @@ This is top 10, for more click **[Top 100 Stars in Move](Top100/Move.md)**
 | 3 | [liquidswap](https://github.com/pontem-network/liquidswap) | 126 | 57 | Move | 0 | AMM core smart contracts | 2023-02-21T22:02:19Z |
 | 4 | [move-by-example](https://github.com/movefuns/move-by-example) | 121 | 2 | Move | 12 | Learn Move with examples | 2022-11-01T00:26:24Z |
 | 5 | [econia](https://github.com/econia-labs/econia) | 102 | 32 | Move | 19 | Hyper-parallelized on-chain order book for the Aptos blockchain | 2023-04-03T22:30:54Z |
-| 6 | [nft-protocol](https://github.com/Origin-Byte/nft-protocol) | 87 | 37 | Move | 13 | Sui NFT Smart contracts maintained by the Origin Byte team | 2023-04-04T00:37:02Z |
+| 6 | [nft-protocol](https://github.com/Origin-Byte/nft-protocol) | 87 | 37 | Move | 13 | Sui NFT Smart contracts maintained by the Origin Byte team | 2023-04-04T01:09:52Z |
 | 7 | [sui-move-intro-course](https://github.com/sui-foundation/sui-move-intro-course) | 87 | 15 | Move | 0 | Introductory Course to the Sui Move language | 2023-03-29T07:13:24Z |
 | 8 | [xyk-amm-move](https://github.com/pentagonxyz/xyk-amm-move) | 86 | 19 | Move | 2 | Aubrium is a constant product AMM (like Uniswap V2) built in Move on Sui and Aptos for swapping coins. | 2022-09-14T03:04:54Z |
 | 9 | [pontem](https://github.com/pontem-network/pontem) | 72 | 64 | Move | 2 | 🚀 Pontem Parachain node with Move VM onboard. | 2022-11-19T17:01:43Z |

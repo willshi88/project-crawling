@@ -34,7 +34,7 @@ rank,item,repo_name,stars,forks,language,repo_url,username,issues,last_commit,de
 33,Solidity,nft-mix,804,418,Solidity,https://github.com/PatrickAlphaC/nft-mix,PatrickAlphaC,11,2022-04-25T02:11:34Z,
 34,Solidity,hashlips_nft_contract,800,677,Solidity,https://github.com/HashLips/hashlips_nft_contract,HashLips,48,2022-10-23T16:20:12Z,A simple NFT smart contract that works with the rest of the HashLips ecosystem.
 35,Solidity,ethereum-api,765,427,Solidity,https://github.com/provable-things/ethereum-api,provable-things,11,2023-02-16T21:45:20Z,Provable API for Ethereum smart contracts
-36,Solidity,unlock,744,194,Solidity,https://github.com/unlock-protocol/unlock,unlock-protocol,115,2023-04-04T00:38:10Z,Ʉnlock is a protocol for memberships built on a blockchain.
+36,Solidity,unlock,744,194,Solidity,https://github.com/unlock-protocol/unlock,unlock-protocol,116,2023-04-04T00:56:36Z,Ʉnlock is a protocol for memberships built on a blockchain.
 37,Solidity,defi-sdk,731,228,Solidity,https://github.com/zeriontech/defi-sdk,zeriontech,23,2023-03-03T13:44:27Z,DeFi SDK Makes Money Lego Work
 38,Solidity,SWC-registry,720,143,Solidity,https://github.com/SmartContractSecurity/SWC-registry,SmartContractSecurity,15,2023-03-07T16:23:27Z,Smart Contract Weakness Classification and Test Cases
 39,Solidity,olympus-contracts,716,949,Solidity,https://github.com/OlympusDAO/olympus-contracts,OlympusDAO,42,2023-01-25T20:06:27Z,
@@ -71,8 +71,8 @@ rank,item,repo_name,stars,forks,language,repo_url,username,issues,last_commit,de
 70,Solidity,securify2,480,98,Solidity,https://github.com/eth-sri/securify2,eth-sri,32,2022-08-28T02:30:55Z,Securify v2.0
 71,Solidity,permit2,480,65,Solidity,https://github.com/Uniswap/permit2,Uniswap,4,2023-03-08T18:00:31Z,🔑🔑🔑 next generation token approvals mechanism
 72,Solidity,optimism-tutorial,465,185,Solidity,https://github.com/ethereum-optimism/optimism-tutorial,ethereum-optimism,1,2023-03-27T20:54:54Z,Build your first app on Optimism!
-73,Solidity,argent-contracts,464,158,Solidity,https://github.com/argentlabs/argent-contracts,argentlabs,4,2023-03-12T11:12:24Z,Smart Contracts for Argent Wallet
-74,Solidity,ctf-blockchain,464,33,Solidity,https://github.com/minaminao/ctf-blockchain,minaminao,0,2023-04-01T01:04:50Z,A summary of 100+ CTF blockchain challenges
+73,Solidity,ctf-blockchain,464,33,Solidity,https://github.com/minaminao/ctf-blockchain,minaminao,0,2023-04-01T01:04:50Z,A summary of 100+ CTF blockchain challenges
+74,Solidity,argent-contracts,464,158,Solidity,https://github.com/argentlabs/argent-contracts,argentlabs,4,2023-03-12T11:12:24Z,Smart Contracts for Argent Wallet
 75,Solidity,1inchProtocol,458,270,Solidity,https://github.com/1inch/1inchProtocol,1inch,40,2021-10-27T22:22:40Z,1inch Protocol – fully on-chain DeFi aggregation protocol
 76,Solidity,sMEV,448,102,Solidity,https://github.com/bertmiller/sMEV,bertmiller,1,2021-09-06T10:59:41Z,
 77,Solidity,chainlink-mix,447,178,Solidity,https://github.com/smartcontractkit/chainlink-mix,smartcontractkit,9,2023-02-08T20:58:39Z,"Working with smart contracts with eth-brownie, python, and Chainlink. "
@@ -139,10 +139,10 @@ rank,item,repo_name,stars,forks,language,repo_url,username,issues,last_commit,de
 38,Vyper,eXRP-Contracts,1,0,Vyper,https://github.com/ObiajuluM/eXRP-Contracts,ObiajuluM,0,2022-10-21T09:11:56Z,Contracts to emulate XRPL objects on EVM chains
 39,Vyper,WethTest,1,0,Vyper,https://github.com/rockorama/WethTest,rockorama,0,2022-11-22T01:20:08Z,
 40,Vyper,vyper,1,0,Vyper,https://github.com/MaicFdz/vyper,MaicFdz,0,2022-08-31T18:11:35Z,
-41,Vyper,fair-funding,1,0,Vyper,https://github.com/Unstoppable-DeFi/fair-funding,Unstoppable-DeFi,0,2023-03-16T07:35:19Z,
-42,Vyper,CPAMM-Vy,1,0,Vyper,https://github.com/mrWojackETH/CPAMM-Vy,mrWojackETH,0,2022-09-18T18:22:12Z,CPAMM coded using Vyper 
-43,Vyper,Hackxyk-Stablecoin-Challenges,1,0,Vyper,https://github.com/0xJCN/Hackxyk-Stablecoin-Challenges,0xJCN,0,2023-01-31T13:16:46Z,"Hackxyk Stablecoin Challenges implementation with Ape, exploits with Vyper"
-44,Vyper,vybes,1,0,Vyper,https://github.com/0xMaka/vybes,0xMaka,0,2023-01-01T22:51:25Z,"For fun and study, with some vy (and maybe a lil py)."
+41,Vyper,CPAMM-Vy,1,0,Vyper,https://github.com/mrWojackETH/CPAMM-Vy,mrWojackETH,0,2022-09-18T18:22:12Z,CPAMM coded using Vyper 
+42,Vyper,fair-funding,1,0,Vyper,https://github.com/Unstoppable-DeFi/fair-funding,Unstoppable-DeFi,0,2023-03-16T07:35:19Z,
+43,Vyper,vybes,1,0,Vyper,https://github.com/0xMaka/vybes,0xMaka,0,2023-01-01T22:51:25Z,"For fun and study, with some vy (and maybe a lil py)."
+44,Vyper,Hackxyk-Stablecoin-Challenges,1,0,Vyper,https://github.com/0xJCN/Hackxyk-Stablecoin-Challenges,0xJCN,0,2023-01-31T13:16:46Z,"Hackxyk Stablecoin Challenges implementation with Ape, exploits with Vyper"
 45,Vyper,zap-eth,1,0,Vyper,https://github.com/pandadefi/zap-eth,pandadefi,0,2022-06-23T14:38:58Z,
 46,Vyper,mind,1,0,Vyper,https://github.com/nanefi/mind,nanefi,0,2022-04-23T09:02:30Z,Smart contracts for Nane
 47,Vyper,Staking-Vyper,1,0,Vyper,https://github.com/mrWojackETH/Staking-Vyper,mrWojackETH,0,2022-09-28T08:30:59Z,Staking rewards vyper app based on Syntetix code.
@@ -152,112 +152,112 @@ rank,item,repo_name,stars,forks,language,repo_url,username,issues,last_commit,de
 51,Vyper,mimo-dao-contracts,1,0,Vyper,https://github.com/mimoprotocol/mimo-dao-contracts,mimoprotocol,0,2022-05-06T02:46:24Z,
 52,Vyper,magic-stablecoin,1,0,Vyper,https://github.com/0xMannny/magic-stablecoin,0xMannny,0,2023-02-22T19:09:07Z,It's magic!
 53,Vyper,2023-02-fair-funding,1,0,Vyper,https://github.com/sherlock-audit/2023-02-fair-funding,sherlock-audit,0,2023-03-03T20:42:22Z,
-1,Rust,deno,88770,4810,Rust,https://github.com/denoland/deno,denoland,1216,2023-04-04T00:31:18Z,A modern runtime for JavaScript and TypeScript.
-2,Rust,rust,79778,10593,Rust,https://github.com/rust-lang/rust,rust-lang,8860,2023-04-04T00:34:48Z,Empowering everyone to build reliable and efficient software.
-3,Rust,alacritty,45837,2734,Rust,https://github.com/alacritty/alacritty,alacritty,304,2023-04-03T22:58:07Z,"A cross-platform, OpenGL terminal emulator."
-4,Rust,bat,40507,1060,Rust,https://github.com/sharkdp/bat,sharkdp,176,2023-04-01T02:58:15Z,A cat(1) clone with wings.
-5,Rust,rustdesk,40123,3798,Rust,https://github.com/rustdesk/rustdesk,rustdesk,114,2023-04-04T00:15:09Z,Virtual / remote desktop infrastructure for everyone! Open source TeamViewer / Citrix alternative.
-6,Rust,ripgrep,36963,1653,Rust,https://github.com/BurntSushi/ripgrep,BurntSushi,143,2023-04-03T19:13:14Z,ripgrep recursively searches directories for a regex pattern while respecting your gitignore
-7,Rust,rustlings,36602,6266,Rust,https://github.com/rust-lang/rustlings,rust-lang,92,2023-04-02T10:46:50Z,:crab: Small exercises to get you used to reading and writing Rust code!
-8,Rust,awesome-rust,33628,2135,Rust,https://github.com/rust-unofficial/awesome-rust,rust-unofficial,11,2023-04-03T19:45:14Z,A curated list of Rust code and resources.
-9,Rust,starship,33508,1434,Rust,https://github.com/starship/starship,starship,419,2023-04-03T20:43:15Z,"☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!"
-10,Rust,ChatGPT,29272,2993,Rust,https://github.com/lencx/ChatGPT,lencx,289,2023-04-02T04:55:01Z,"🔮 ChatGPT Desktop Application (Mac, Windows and Linux)"
-11,Rust,yew,26991,1294,Rust,https://github.com/yewstack/yew,yewstack,96,2023-04-03T20:50:27Z,Rust / Wasm framework for building client web apps
-12,Rust,fd,26957,686,Rust,https://github.com/sharkdp/fd,sharkdp,68,2023-04-01T20:32:17Z,"A simple, fast and user-friendly alternative to 'find'"
-13,Rust,swc,26825,950,Rust,https://github.com/swc-project/swc,swc-project,321,2023-04-03T20:27:43Z,Rust-based platform for the Web
-14,Rust,lapce,24915,733,Rust,https://github.com/lapce/lapce,lapce,553,2023-04-03T01:11:00Z,Lightning-fast and Powerful Code Editor written in Rust
-15,Rust,vaultwarden,24105,1226,Rust,https://github.com/dani-garcia/vaultwarden,dani-garcia,8,2023-04-02T21:36:46Z,"Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs"
-16,Rust,nushell,24078,1190,Rust,https://github.com/nushell/nushell,nushell,741,2023-04-03T23:40:32Z,A new type of shell
-17,Rust,tools,23079,661,Rust,https://github.com/rome/tools,rome,123,2023-04-03T15:14:32Z,"Unified developer tools for JavaScript, TypeScript, and the web"
-18,Rust,bevy,23014,2316,Rust,https://github.com/bevyengine/bevy,bevyengine,995,2023-04-04T00:52:51Z,A refreshingly simple data-driven game engine built in Rust
-19,Rust,exa,21276,625,Rust,https://github.com/ogham/exa,ogham,252,2023-03-30T14:59:41Z,A modern replacement for ‘ls’.
-20,Rust,firecracker,21226,1516,Rust,https://github.com/firecracker-microvm/firecracker,firecracker-microvm,123,2023-04-03T18:49:29Z,Secure and fast microVMs for serverless computing.
-21,Rust,helix,20699,1429,Rust,https://github.com/helix-editor/helix,helix-editor,795,2023-04-03T23:58:42Z,A post-modern modal text editor.
-22,Rust,turbo,20546,1358,Rust,https://github.com/vercel/turbo,vercel,325,2023-04-04T00:49:04Z,"Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust – including Turbopack and Turborepo."
-23,Rust,Rocket,20305,1408,Rust,https://github.com/SergioBenitez/Rocket,SergioBenitez,63,2023-04-03T23:09:59Z,A web framework for Rust.
-24,Rust,xi-editor,19725,712,Rust,https://github.com/xi-editor/xi-editor,xi-editor,131,2023-04-03T20:08:58Z,A modern editor with a backend written in Rust.
-25,Rust,surrealdb,19301,474,Rust,https://github.com/surrealdb/surrealdb,surrealdb,152,2023-04-03T17:31:16Z,"A scalable, distributed, collaborative, document-graph database, for the realtime web"
-26,Rust,iced,18559,805,Rust,https://github.com/iced-rs/iced,iced-rs,162,2023-04-04T00:09:45Z,"A cross-platform GUI library for Rust, inspired by Elm"
-27,Rust,sonic,18006,525,Rust,https://github.com/valeriansaliou/sonic,valeriansaliou,59,2023-03-10T20:37:20Z,"🦔 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM."
-28,Rust,relay,17682,1802,Rust,https://github.com/facebook/relay,facebook,423,2023-04-04T00:14:14Z,Relay is a JavaScript framework for building data-driven React applications.
-29,Rust,v86,17509,1240,Rust,https://github.com/copy/v86,copy,95,2023-03-14T19:13:17Z,"x86 virtualization in your browser, recompiling x86 to wasm on the fly"
-30,Rust,actix-web,17131,1485,Rust,https://github.com/actix/actix-web,actix,122,2023-04-02T04:58:46Z,"Actix Web is a powerful, pragmatic, and extremely fast web framework for Rust."
-31,Rust,spacedrive,17017,460,Rust,https://github.com/spacedriveapp/spacedrive,spacedriveapp,26,2023-04-03T12:40:49Z,"Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust."
-32,Rust,delta,16959,290,Rust,https://github.com/dandavison/delta,dandavison,159,2023-04-03T06:59:25Z,"A syntax-highlighting pager for git, diff, and grep output"
-33,Rust,diem,16693,2600,Rust,https://github.com/diem/diem,diem,352,2023-04-03T12:49:43Z,Diem’s mission is to build a trusted and innovative financial network that empowers people and businesses around the world.
-34,Rust,polars,16010,818,Rust,https://github.com/pola-rs/polars,pola-rs,588,2023-04-03T20:17:56Z,"Fast multi-threaded, hybrid-out-of-core DataFrame library in Rust | Python | Node.js"
-35,Rust,hyperfine,15386,269,Rust,https://github.com/sharkdp/hyperfine,sharkdp,36,2023-04-01T18:37:24Z,A command-line benchmarking tool
-36,Rust,Rust,15093,1496,Rust,https://github.com/TheAlgorithms/Rust,TheAlgorithms,5,2023-04-03T22:49:44Z, All Algorithms implemented in Rust 
-37,Rust,rust-course,14926,1289,Rust,https://github.com/sunface/rust-course,sunface,34,2023-04-03T10:19:59Z,"“连续六年成为全世界最受喜爱的语言，无 GC 也无需手动内存管理、极高的性能和安全性、过程/OO/函数式编程、优秀的包管理、JS 未来基石"" — 工作之余的第二语言来试试 Rust 吧。<<Rust语言圣经>>拥有全面且深入的讲解、生动贴切的示例、德芙般丝滑的内容，甚至还有JS程序员关注的 WASM 和 Deno 等专题。这可能是目前最用心的 Rust 中文学习教程 / Book "
-38,Rust,wasmer,14839,634,Rust,https://github.com/wasmerio/wasmer,wasmerio,220,2023-04-03T19:45:48Z,🚀 The leading WebAssembly Runtime supporting WASI and Emscripten
-39,Rust,RustPython,14687,975,Rust,https://github.com/RustPython/RustPython,RustPython,240,2023-04-03T19:53:50Z,A Python Interpreter written in Rust
-40,Rust,spotify-tui,14614,456,Rust,https://github.com/Rigellute/spotify-tui,Rigellute,229,2023-03-25T02:34:03Z,Spotify for the terminal written in Rust 🚀
-41,Rust,difftastic,14534,230,Rust,https://github.com/Wilfred/difftastic,Wilfred,106,2023-04-03T02:34:12Z,a structural diff that understands syntax 🟥🟩
-42,Rust,coreutils,14367,1011,Rust,https://github.com/uutils/coreutils,uutils,205,2023-04-03T15:58:55Z,Cross-platform Rust rewrite of the GNU coreutils
-43,Rust,egui,14340,1021,Rust,https://github.com/emilk/egui,emilk,381,2023-04-03T08:50:28Z,egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native
-44,Rust,typst,14111,243,Rust,https://github.com/typst/typst,typst,195,2023-04-03T17:17:06Z,A new markup-based typesetting system that is powerful and easy to learn.
-45,Rust,anki,13606,1695,Rust,https://github.com/ankitects/anki,ankitects,113,2023-04-03T02:51:30Z,Anki for desktop computers
-46,Rust,vector,13112,1045,Rust,https://github.com/vectordotdev/vector,vectordotdev,1493,2023-04-03T23:46:31Z,A high-performance observability data pipeline.
-47,Rust,Pake,13088,1075,Rust,https://github.com/tw93/Pake,tw93,3,2023-03-27T14:36:45Z,🤱🏻 Turn any webpage into a desktop app with Rust.  🤱🏻 很简单的用 Rust 打包网页生成很小的桌面 App
-48,Rust,mdBook,12990,1328,Rust,https://github.com/rust-lang/mdBook,rust-lang,367,2023-04-03T12:37:19Z,Create book from markdown files. Like Gitbook but implemented in Rust
-49,Rust,tikv,12881,1936,Rust,https://github.com/tikv/tikv,tikv,1010,2023-04-03T18:00:20Z,"Distributed transactional key-value database, originally created to complement TiDB"
-50,Rust,navi,12672,458,Rust,https://github.com/denisidoro/navi,denisidoro,51,2023-03-12T10:52:45Z,An interactive cheatsheet tool for the command-line
-51,Rust,Pake,13088,1075,Rust,https://github.com/tw93/Pake,tw93,3,2023-03-27T14:36:45Z,🤱🏻 Turn any webpage into a desktop app with Rust.  🤱🏻 很简单的用 Rust 打包网页生成很小的桌面 App
+1,Rust,deno,88772,4810,Rust,https://github.com/denoland/deno,denoland,1216,2023-04-04T01:05:12Z,A modern runtime for JavaScript and TypeScript.
+2,Rust,rust,79778,10593,Rust,https://github.com/rust-lang/rust,rust-lang,8858,2023-04-04T01:21:26Z,Empowering everyone to build reliable and efficient software.
+3,Rust,tauri,61731,1638,Rust,https://github.com/tauri-apps/tauri,tauri-apps,393,2023-04-04T00:17:18Z,"Build smaller, faster, and more secure desktop applications with a web frontend."
+4,Rust,alacritty,45837,2734,Rust,https://github.com/alacritty/alacritty,alacritty,304,2023-04-03T22:58:07Z,"A cross-platform, OpenGL terminal emulator."
+5,Rust,bat,40507,1060,Rust,https://github.com/sharkdp/bat,sharkdp,176,2023-04-01T02:58:15Z,A cat(1) clone with wings.
+6,Rust,rustdesk,40126,3798,Rust,https://github.com/rustdesk/rustdesk,rustdesk,114,2023-04-04T00:15:09Z,Virtual / remote desktop infrastructure for everyone! Open source TeamViewer / Citrix alternative.
+7,Rust,ripgrep,36964,1653,Rust,https://github.com/BurntSushi/ripgrep,BurntSushi,143,2023-04-03T19:13:14Z,ripgrep recursively searches directories for a regex pattern while respecting your gitignore
+8,Rust,rustlings,36602,6266,Rust,https://github.com/rust-lang/rustlings,rust-lang,92,2023-04-02T10:46:50Z,:crab: Small exercises to get you used to reading and writing Rust code!
+9,Rust,meilisearch,35355,1276,Rust,https://github.com/meilisearch/meilisearch,meilisearch,115,2023-04-03T19:14:45Z,"A lightning-fast search engine that fits effortlessly into your apps, websites, and workflow."
+10,Rust,awesome-rust,33628,2135,Rust,https://github.com/rust-unofficial/awesome-rust,rust-unofficial,11,2023-04-03T19:45:14Z,A curated list of Rust code and resources.
+11,Rust,starship,33508,1434,Rust,https://github.com/starship/starship,starship,419,2023-04-03T20:43:15Z,"☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!"
+12,Rust,ChatGPT,29285,2994,Rust,https://github.com/lencx/ChatGPT,lencx,290,2023-04-02T04:55:01Z,"🔮 ChatGPT Desktop Application (Mac, Windows and Linux)"
+13,Rust,yew,26991,1294,Rust,https://github.com/yewstack/yew,yewstack,96,2023-04-04T01:17:16Z,Rust / Wasm framework for building client web apps
+14,Rust,fd,26957,686,Rust,https://github.com/sharkdp/fd,sharkdp,68,2023-04-01T20:32:17Z,"A simple, fast and user-friendly alternative to 'find'"
+15,Rust,swc,26825,950,Rust,https://github.com/swc-project/swc,swc-project,321,2023-04-03T20:27:43Z,Rust-based platform for the Web
+16,Rust,lapce,24917,733,Rust,https://github.com/lapce/lapce,lapce,553,2023-04-04T01:18:27Z,Lightning-fast and Powerful Code Editor written in Rust
+17,Rust,vaultwarden,24105,1226,Rust,https://github.com/dani-garcia/vaultwarden,dani-garcia,8,2023-04-02T21:36:46Z,"Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs"
+18,Rust,nushell,24078,1190,Rust,https://github.com/nushell/nushell,nushell,741,2023-04-03T23:40:32Z,A new type of shell
+19,Rust,tools,23079,661,Rust,https://github.com/rome/tools,rome,123,2023-04-03T15:14:32Z,"Unified developer tools for JavaScript, TypeScript, and the web"
+20,Rust,bevy,23014,2316,Rust,https://github.com/bevyengine/bevy,bevyengine,993,2023-04-04T01:19:56Z,A refreshingly simple data-driven game engine built in Rust
+21,Rust,exa,21276,625,Rust,https://github.com/ogham/exa,ogham,252,2023-03-30T14:59:41Z,A modern replacement for ‘ls’.
+22,Rust,firecracker,21226,1516,Rust,https://github.com/firecracker-microvm/firecracker,firecracker-microvm,123,2023-04-03T18:49:29Z,Secure and fast microVMs for serverless computing.
+23,Rust,helix,20703,1429,Rust,https://github.com/helix-editor/helix,helix-editor,795,2023-04-04T00:59:36Z,A post-modern modal text editor.
+24,Rust,turbo,20546,1358,Rust,https://github.com/vercel/turbo,vercel,325,2023-04-04T01:20:35Z,"Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust – including Turbopack and Turborepo."
+25,Rust,Rocket,20305,1408,Rust,https://github.com/SergioBenitez/Rocket,SergioBenitez,63,2023-04-03T23:09:59Z,A web framework for Rust.
+26,Rust,tokio,19995,1869,Rust,https://github.com/tokio-rs/tokio,tokio-rs,230,2023-04-03T19:23:25Z,"A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ..."
+27,Rust,xi-editor,19725,712,Rust,https://github.com/xi-editor/xi-editor,xi-editor,131,2023-04-03T20:08:58Z,A modern editor with a backend written in Rust.
+28,Rust,surrealdb,19302,474,Rust,https://github.com/surrealdb/surrealdb,surrealdb,152,2023-04-03T17:31:16Z,"A scalable, distributed, collaborative, document-graph database, for the realtime web"
+29,Rust,iced,18559,806,Rust,https://github.com/iced-rs/iced,iced-rs,162,2023-04-04T00:09:45Z,"A cross-platform GUI library for Rust, inspired by Elm"
+30,Rust,sonic,18006,525,Rust,https://github.com/valeriansaliou/sonic,valeriansaliou,59,2023-03-10T20:37:20Z,"🦔 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM."
+31,Rust,relay,17682,1802,Rust,https://github.com/facebook/relay,facebook,423,2023-04-04T00:14:14Z,Relay is a JavaScript framework for building data-driven React applications.
+32,Rust,v86,17509,1240,Rust,https://github.com/copy/v86,copy,95,2023-03-14T19:13:17Z,"x86 virtualization in your browser, recompiling x86 to wasm on the fly"
+33,Rust,actix-web,17131,1485,Rust,https://github.com/actix/actix-web,actix,122,2023-04-02T04:58:46Z,"Actix Web is a powerful, pragmatic, and extremely fast web framework for Rust."
+34,Rust,spacedrive,17018,460,Rust,https://github.com/spacedriveapp/spacedrive,spacedriveapp,26,2023-04-03T12:40:49Z,"Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust."
+35,Rust,delta,16959,290,Rust,https://github.com/dandavison/delta,dandavison,159,2023-04-03T06:59:25Z,"A syntax-highlighting pager for git, diff, and grep output"
+36,Rust,diem,16693,2600,Rust,https://github.com/diem/diem,diem,352,2023-04-03T12:49:43Z,Diem’s mission is to build a trusted and innovative financial network that empowers people and businesses around the world.
+37,Rust,polars,16011,818,Rust,https://github.com/pola-rs/polars,pola-rs,588,2023-04-03T20:17:56Z,"Fast multi-threaded, hybrid-out-of-core DataFrame library in Rust | Python | Node.js"
+38,Rust,hyperfine,15386,269,Rust,https://github.com/sharkdp/hyperfine,sharkdp,36,2023-04-01T18:37:24Z,A command-line benchmarking tool
+39,Rust,Rust,15093,1496,Rust,https://github.com/TheAlgorithms/Rust,TheAlgorithms,5,2023-04-03T22:49:44Z, All Algorithms implemented in Rust 
+40,Rust,rust-course,14926,1290,Rust,https://github.com/sunface/rust-course,sunface,34,2023-04-03T10:19:59Z,"“连续六年成为全世界最受喜爱的语言，无 GC 也无需手动内存管理、极高的性能和安全性、过程/OO/函数式编程、优秀的包管理、JS 未来基石"" — 工作之余的第二语言来试试 Rust 吧。<<Rust语言圣经>>拥有全面且深入的讲解、生动贴切的示例、德芙般丝滑的内容，甚至还有JS程序员关注的 WASM 和 Deno 等专题。这可能是目前最用心的 Rust 中文学习教程 / Book "
+41,Rust,cube,14845,1525,Rust,https://github.com/cube-js/cube,cube-js,441,2023-04-03T23:27:50Z,📊  Cube — The Semantic Layer for Building Data Applications
+42,Rust,wasmer,14839,634,Rust,https://github.com/wasmerio/wasmer,wasmerio,220,2023-04-03T19:45:48Z,🚀 The leading WebAssembly Runtime supporting WASI and Emscripten
+43,Rust,RustPython,14687,975,Rust,https://github.com/RustPython/RustPython,RustPython,240,2023-04-03T19:53:50Z,A Python Interpreter written in Rust
+44,Rust,spotify-tui,14614,456,Rust,https://github.com/Rigellute/spotify-tui,Rigellute,229,2023-03-25T02:34:03Z,Spotify for the terminal written in Rust 🚀
+45,Rust,difftastic,14534,230,Rust,https://github.com/Wilfred/difftastic,Wilfred,106,2023-04-03T02:34:12Z,a structural diff that understands syntax 🟥🟩
+46,Rust,coreutils,14367,1011,Rust,https://github.com/uutils/coreutils,uutils,205,2023-04-03T15:58:55Z,Cross-platform Rust rewrite of the GNU coreutils
+47,Rust,egui,14340,1021,Rust,https://github.com/emilk/egui,emilk,381,2023-04-03T08:50:28Z,egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native
+48,Rust,typst,14112,243,Rust,https://github.com/typst/typst,typst,196,2023-04-03T17:17:06Z,A new markup-based typesetting system that is powerful and easy to learn.
+49,Rust,anki,13606,1695,Rust,https://github.com/ankitects/anki,ankitects,113,2023-04-03T02:51:30Z,Anki for desktop computers
+50,Rust,vector,13112,1045,Rust,https://github.com/vectordotdev/vector,vectordotdev,1493,2023-04-03T23:46:31Z,A high-performance observability data pipeline.
+51,Rust,Pake,13089,1075,Rust,https://github.com/tw93/Pake,tw93,3,2023-03-27T14:36:45Z,🤱🏻 Turn any webpage into a desktop app with Rust.  🤱🏻 很简单的用 Rust 打包网页生成很小的桌面 App
 52,Rust,mdBook,12990,1328,Rust,https://github.com/rust-lang/mdBook,rust-lang,367,2023-04-03T12:37:19Z,Create book from markdown files. Like Gitbook but implemented in Rust
 53,Rust,tikv,12881,1936,Rust,https://github.com/tikv/tikv,tikv,1010,2023-04-03T18:00:20Z,"Distributed transactional key-value database, originally created to complement TiDB"
-54,Rust,gitui,12701,397,Rust,https://github.com/extrawurst/gitui,extrawurst,112,2023-04-03T10:18:44Z,Blazing 💥 fast terminal-ui for git written in rust 🦀
-55,Rust,navi,12672,458,Rust,https://github.com/denisidoro/navi,denisidoro,51,2023-03-12T10:52:45Z,An interactive cheatsheet tool for the command-line
+54,Rust,gitui,12702,397,Rust,https://github.com/extrawurst/gitui,extrawurst,112,2023-04-03T10:18:44Z,Blazing 💥 fast terminal-ui for git written in rust 🦀
+55,Rust,navi,12673,458,Rust,https://github.com/denisidoro/navi,denisidoro,51,2023-03-12T10:52:45Z,An interactive cheatsheet tool for the command-line
 56,Rust,ruffle,12140,620,Rust,https://github.com/ruffle-rs/ruffle,ruffle-rs,2487,2023-04-04T00:19:52Z,A Flash Player emulator written in Rust
 57,Rust,carbonyl,11967,262,Rust,https://github.com/fathyb/carbonyl,fathyb,37,2023-03-29T16:51:01Z,Chromium running inside your terminal
-58,Rust,wasmtime,11904,954,Rust,https://github.com/bytecodealliance/wasmtime,bytecodealliance,509,2023-04-04T00:25:21Z,A fast and secure runtime for WebAssembly
+58,Rust,wasmtime,11904,954,Rust,https://github.com/bytecodealliance/wasmtime,bytecodealliance,509,2023-04-04T01:05:10Z,A fast and secure runtime for WebAssembly
 59,Rust,book,11899,2801,Rust,https://github.com/rust-lang/book,rust-lang,179,2023-04-03T17:12:25Z,The Rust Programming Language
 60,Rust,rust-analyzer,11729,1204,Rust,https://github.com/rust-lang/rust-analyzer,rust-lang,1217,2023-04-04T00:41:36Z,A Rust compiler front-end for IDEs
 61,Rust,hyper,11533,1346,Rust,https://github.com/hyperium/hyper,hyperium,182,2023-04-03T19:35:23Z,An HTTP library for Rust
 62,Rust,ruff,11433,357,Rust,https://github.com/charliermarsh/ruff,charliermarsh,243,2023-04-03T23:47:26Z,"An extremely fast Python linter, written in Rust."
-63,Rust,tree-sitter,11386,682,Rust,https://github.com/tree-sitter/tree-sitter,tree-sitter,356,2023-04-04T00:39:55Z,An incremental parsing system for programming tools
+63,Rust,tree-sitter,11386,682,Rust,https://github.com/tree-sitter/tree-sitter,tree-sitter,356,2023-04-04T00:56:09Z,An incremental parsing system for programming tools
 64,Rust,just,11326,281,Rust,https://github.com/casey/just,casey,173,2023-03-29T14:38:28Z,🤖 Just a command runner
 65,Rust,fnm,11187,313,Rust,https://github.com/Schniz/fnm,Schniz,97,2023-03-30T18:04:09Z,"🚀 Fast and simple Node.js version manager, built in Rust"
 66,Rust,zellij,11182,341,Rust,https://github.com/zellij-org/zellij,zellij-org,420,2023-04-03T16:55:28Z,A terminal workspace with batteries included
-67,Rust,comprehensive-rust,11169,513,Rust,https://github.com/google/comprehensive-rust,google,48,2023-04-03T23:40:02Z,This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust to everyone.
+67,Rust,comprehensive-rust,11170,513,Rust,https://github.com/google/comprehensive-rust,google,48,2023-04-03T23:40:02Z,This is the Rust course used by the Android team at Google. It provides you the material to quickly teach Rust to everyone.
 68,Rust,static-analysis,11096,1242,Rust,https://github.com/analysis-tools-dev/static-analysis,analysis-tools-dev,0,2023-04-03T22:17:38Z,"⚙️ A curated list of static analysis (SAST) tools and linters for all programming languages, config files, build tools, and more. The focus is on tools which improve code quality."
 69,Rust,clap,11054,911,Rust,https://github.com/clap-rs/clap,clap-rs,209,2023-04-03T21:32:47Z,"A full featured, fast Command Line Argument Parser for Rust"
 70,Rust,rust-raspberrypi-OS-tutorials,10780,647,Rust,https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials,rust-embedded,1,2023-03-09T11:19:03Z,:books: Learn to write an embedded OS in Rust :crab:
 71,Rust,zola,10655,754,Rust,https://github.com/getzola/zola,getzola,161,2023-04-03T06:27:24Z,A fast static site generator in a single binary with everything built-in. https://www.getzola.org
 72,Rust,diesel,10180,896,Rust,https://github.com/diesel-rs/diesel,diesel-rs,95,2023-03-31T10:29:00Z,"A safe, extensible ORM and Query Builder for Rust"
-73,Rust,solana,10148,2813,Rust,https://github.com/solana-labs/solana,solana-labs,777,2023-04-04T00:38:59Z,"Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces."
-74,Rust,cargo,10136,1978,Rust,https://github.com/rust-lang/cargo,rust-lang,1374,2023-04-04T00:32:31Z,The Rust package manager
-75,Rust,tui-rs,10111,481,Rust,https://github.com/fdehau/tui-rs,fdehau,92,2023-03-20T10:41:35Z,Build terminal user interfaces and dashboards using Rust
+73,Rust,solana,10148,2813,Rust,https://github.com/solana-labs/solana,solana-labs,777,2023-04-04T00:56:40Z,"Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces."
+74,Rust,cargo,10136,1978,Rust,https://github.com/rust-lang/cargo,rust-lang,1374,2023-04-04T01:14:45Z,The Rust package manager
+75,Rust,tui-rs,10112,481,Rust,https://github.com/fdehau/tui-rs,fdehau,92,2023-03-20T10:41:35Z,Build terminal user interfaces and dashboards using Rust
 76,Rust,py-spy,10005,353,Rust,https://github.com/benfred/py-spy,benfred,100,2023-03-23T01:31:15Z,Sampling profiler for Python programs
-77,Rust,zoxide,9965,357,Rust,https://github.com/ajeetdsouza/zoxide,ajeetdsouza,36,2023-03-19T09:50:28Z,A smarter cd command. Supports all major shells.
+77,Rust,zoxide,9966,357,Rust,https://github.com/ajeetdsouza/zoxide,ajeetdsouza,36,2023-03-19T09:50:28Z,A smarter cd command. Supports all major shells.
 78,Rust,czkawka,9957,279,Rust,https://github.com/qarmin/czkawka,qarmin,255,2023-04-02T15:34:25Z,"Multi functional app to find duplicates, empty folders, similar images etc."
 79,Rust,neovide,9855,389,Rust,https://github.com/neovide/neovide,neovide,354,2023-03-26T22:41:42Z,No Nonsense Neovim Client in Rust
 80,Rust,RustScan,9604,689,Rust,https://github.com/RustScan/RustScan,RustScan,95,2023-03-04T18:19:36Z,🤖 The Modern Port Scanner 🤖
 81,Rust,lsd,9578,314,Rust,https://github.com/lsd-rs/lsd,lsd-rs,96,2023-04-03T08:01:25Z,The next gen ls command
 82,Rust,Infinite-Storage-Glitch,9509,684,Rust,https://github.com/DvorakDwarf/Infinite-Storage-Glitch,DvorakDwarf,0,2023-03-16T15:15:35Z,"ISG lets you use YouTube as cloud storage for ANY files, not just video"
-83,Rust,axum,9508,658,Rust,https://github.com/tokio-rs/axum,tokio-rs,19,2023-04-01T18:49:38Z,"Ergonomic and modular web framework built with Tokio, Tower, and Hyper"
+83,Rust,axum,9508,659,Rust,https://github.com/tokio-rs/axum,tokio-rs,19,2023-04-01T18:49:38Z,"Ergonomic and modular web framework built with Tokio, Tower, and Hyper"
 84,Rust,xsv,9282,296,Rust,https://github.com/BurntSushi/xsv,BurntSushi,108,2023-03-17T16:35:52Z,A fast CSV command line toolkit written in Rust.
 85,Rust,universal-android-debloater,9216,535,Rust,https://github.com/0x192/universal-android-debloater,0x192,237,2023-04-02T08:42:45Z,"Cross-platform GUI written in Rust using ADB to debloat non-rooted android devices. Improve your privacy, the security and battery life of your device."
 86,Rust,rust-clippy,9179,1193,Rust,https://github.com/rust-lang/rust-clippy,rust-lang,1676,2023-04-04T00:21:05Z,A bunch of lints to catch common mistakes and improve your Rust code. Book: https://doc.rust-lang.org/clippy/
-87,Rust,druid,8770,549,Rust,https://github.com/linebender/druid,linebender,258,2023-03-26T22:46:11Z,A data-first Rust-native UI design toolkit. 
+87,Rust,druid,8771,549,Rust,https://github.com/linebender/druid,linebender,258,2023-03-26T22:46:11Z,A data-first Rust-native UI design toolkit. 
 88,Rust,spotifyd,8766,417,Rust,https://github.com/Spotifyd/spotifyd,Spotifyd,52,2023-03-30T08:50:31Z,A spotify daemon
 89,Rust,talent-plan,8647,1138,Rust,https://github.com/pingcap/talent-plan,pingcap,96,2023-02-26T08:31:48Z,open source training courses about distributed database and distributed systems
 90,Rust,xray,8537,246,Rust,https://github.com/atom-archive/xray,atom-archive,16,2019-07-22T17:46:06Z,An experimental next-generation Electron-based text editor
 91,Rust,broot,8482,195,Rust,https://github.com/Canop/broot,Canop,165,2023-04-03T23:41:31Z,A new way to see and navigate directory trees : https://dystroy.org/broot
 92,Rust,sqlx,8402,856,Rust,https://github.com/launchbadge/sqlx,launchbadge,419,2023-03-31T19:08:21Z,"🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, SQLite, and MSSQL."
 93,Rust,rayon,8402,418,Rust,https://github.com/rayon-rs/rayon,rayon-rs,139,2023-03-16T04:41:08Z,Rayon: A data parallelism library for Rust
-94,Rust,windows-rs,8183,357,Rust,https://github.com/microsoft/windows-rs,microsoft,26,2023-04-03T21:59:27Z,Rust for Windows
+94,Rust,windows-rs,8183,357,Rust,https://github.com/microsoft/windows-rs,microsoft,25,2023-04-04T01:02:39Z,Rust for Windows
 95,Rust,dioxus,8133,231,Rust,https://github.com/DioxusLabs/dioxus,DioxusLabs,102,2023-04-03T22:39:20Z,"React-like GUI library for desktop, web, mobile, tui, and more."
 96,Rust,substrate,8090,2565,Rust,https://github.com/paritytech/substrate,paritytech,1034,2023-04-03T23:02:13Z,Substrate: The platform for blockchain innovators
 97,Rust,pyo3,8083,525,Rust,https://github.com/PyO3/pyo3,PyO3,151,2023-03-30T10:05:58Z,Rust bindings for the Python interpreter
 98,Rust,tokei,8050,405,Rust,https://github.com/XAMPPRocky/tokei,XAMPPRocky,95,2023-04-01T19:08:40Z,"Count your code, quickly."
-99,Rust,wezterm,8004,387,Rust,https://github.com/wez/wezterm,wez,348,2023-04-04T00:05:29Z,A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
+99,Rust,wezterm,8005,387,Rust,https://github.com/wez/wezterm,wez,348,2023-04-04T00:05:29Z,A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
 100,Rust,tantivy,7911,467,Rust,https://github.com/quickwit-oss/tantivy,quickwit-oss,225,2023-04-04T00:14:06Z,Tantivy is a full-text search engine library inspired by Apache Lucene and written in Rust
 1,Move,seaprotocol,5157,26,Move,https://github.com/sea-protocol/seaprotocol,sea-protocol,1,2023-03-30T03:19:45Z,"Sea protocol is the ultimate DEX base on order-book & AMM on Aptos & Sui.Anybody has the right to trade any asset anywhere, anytime!"
 2,Move,movemate,177,51,Move,https://github.com/pentagonxyz/movemate,pentagonxyz,4,2022-12-19T10:47:15Z,Library of module building blocks for Move (Aptos and Sui).
 3,Move,liquidswap,126,57,Move,https://github.com/pontem-network/liquidswap,pontem-network,0,2023-02-21T22:02:19Z,AMM core smart contracts
 4,Move,move-by-example,121,2,Move,https://github.com/movefuns/move-by-example,movefuns,12,2022-11-01T00:26:24Z,Learn Move with examples
 5,Move,econia,102,32,Move,https://github.com/econia-labs/econia,econia-labs,19,2023-04-03T22:30:54Z,Hyper-parallelized on-chain order book for the Aptos blockchain
-6,Move,nft-protocol,87,37,Move,https://github.com/Origin-Byte/nft-protocol,Origin-Byte,13,2023-04-04T00:37:02Z,Sui NFT Smart contracts maintained by the Origin Byte team
+6,Move,nft-protocol,87,37,Move,https://github.com/Origin-Byte/nft-protocol,Origin-Byte,13,2023-04-04T01:09:52Z,Sui NFT Smart contracts maintained by the Origin Byte team
 7,Move,sui-move-intro-course,87,15,Move,https://github.com/sui-foundation/sui-move-intro-course,sui-foundation,0,2023-03-29T07:13:24Z,Introductory Course to the Sui Move language
 8,Move,xyk-amm-move,86,19,Move,https://github.com/pentagonxyz/xyk-amm-move,pentagonxyz,2,2022-09-14T03:04:54Z,Aubrium is a constant product AMM (like Uniswap V2) built in Move on Sui and Aptos for swapping coins.
 9,Move,pontem,72,64,Move,https://github.com/pontem-network/pontem,pontem-network,2,2022-11-19T17:01:43Z,🚀 Pontem Parachain node with Move VM onboard.
@@ -327,7 +327,7 @@ rank,item,repo_name,stars,forks,language,repo_url,username,issues,last_commit,de
 73,Move,inbox,7,1,Move,https://github.com/aptosis/inbox,aptosis,0,2023-03-01T19:05:23Z,
 74,Move,syrup,7,2,Move,https://github.com/Origin-Byte/syrup,Origin-Byte,0,2022-10-21T14:03:52Z,NFT Liquidity Layer
 75,Move,stormstout-contract,7,1,Move,https://github.com/myastrallabs/stormstout-contract,myastrallabs,0,2022-09-25T12:43:05Z,Aptos NFT marketplace contract
-76,Move,originmate,7,5,Move,https://github.com/Origin-Byte/originmate,Origin-Byte,1,2023-04-04T00:53:10Z,Library of module building blocks for Sui
+76,Move,originmate,7,5,Move,https://github.com/Origin-Byte/originmate,Origin-Byte,1,2023-04-04T00:55:57Z,Library of module building blocks for Sui
 77,Move,DolaProtocol,6,1,Move,https://github.com/OmniBTC/DolaProtocol,OmniBTC,0,2023-04-03T10:59:14Z,"DOLA Protocol is a Decentralized Omnichain Liquidity Aggregation Protocol with the single coin pool of each public chain as the core, Wormhole, Layerzero and other cross-chain messaging protocols as the bridge, and Sui public chain as the settlement center."
 78,Move,aptos-escrow-contract,6,1,Move,https://github.com/wb-ts/aptos-escrow-contract,wb-ts,0,2022-10-26T21:45:09Z,"Escrow Contract which users can swap their tokens where one person deposits the token in the escrow and when the other person transfer successfully, the tokens in the escrow get transferred to the other user."
 79,Move,aptos-contract,6,0,Move,https://github.com/anyswap/aptos-contract,anyswap,0,2022-11-11T08:46:03Z,
