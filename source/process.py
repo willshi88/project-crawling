@@ -134,8 +134,6 @@ class WriteFile(object):
         head_contents = inspect.cleandoc("""[Project-Crawling](./README.md)
             ==========
 
-            **A list of the most github stars and forks repositories.**
-
             *Last Update Time: {write_time}*
 
             ## Table of Contents

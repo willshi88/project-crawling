@@ -1,9 +1,7 @@
 [Project-Crawling](./README.md)
 ==========
 
-**A list of the most github stars and forks repositories.**
-
-*Last Update Time: 2023-04-04T01:23:11Z*
+*Last Update Time: 2023-04-04T01:32:49Z*
 
 ## Table of Contents
 * [Solidity](#solidity)
@@ -54,15 +52,15 @@ This is top 10, for more click **[Top 100 Stars in Rust](Top100/Rust.md)**
 
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
-| 1 | [deno](https://github.com/denoland/deno) | 88772 | 4810 | Rust | 1216 | A modern runtime for JavaScript and TypeScript. | 2023-04-04T01:05:12Z |
+| 1 | [deno](https://github.com/denoland/deno) | 88772 | 4810 | Rust | 1216 | A modern runtime for JavaScript and TypeScript. | 2023-04-04T01:23:11Z |
 | 2 | [rust](https://github.com/rust-lang/rust) | 79778 | 10593 | Rust | 8858 | Empowering everyone to build reliable and efficient software. | 2023-04-04T01:21:26Z |
 | 3 | [tauri](https://github.com/tauri-apps/tauri) | 61731 | 1638 | Rust | 393 | Build smaller, faster, and more secure desktop applications with a web frontend. | 2023-04-04T00:17:18Z |
 | 4 | [alacritty](https://github.com/alacritty/alacritty) | 45837 | 2734 | Rust | 304 | A cross-platform, OpenGL terminal emulator. | 2023-04-03T22:58:07Z |
 | 5 | [bat](https://github.com/sharkdp/bat) | 40507 | 1060 | Rust | 176 | A cat(1) clone with wings. | 2023-04-01T02:58:15Z |
-| 6 | [rustdesk](https://github.com/rustdesk/rustdesk) | 40126 | 3798 | Rust | 114 | Virtual / remote desktop infrastructure for everyone! Open source TeamViewer / Citrix alternative. | 2023-04-04T00:15:09Z |
-| 7 | [ripgrep](https://github.com/BurntSushi/ripgrep) | 36964 | 1653 | Rust | 143 | ripgrep recursively searches directories for a regex pattern while respecting your gitignore | 2023-04-03T19:13:14Z |
+| 6 | [rustdesk](https://github.com/rustdesk/rustdesk) | 40127 | 3798 | Rust | 112 | Virtual / remote desktop infrastructure for everyone! Open source TeamViewer / Citrix alternative. | 2023-04-04T00:15:09Z |
+| 7 | [ripgrep](https://github.com/BurntSushi/ripgrep) | 36965 | 1653 | Rust | 142 | ripgrep recursively searches directories for a regex pattern while respecting your gitignore | 2023-04-03T19:13:14Z |
 | 8 | [rustlings](https://github.com/rust-lang/rustlings) | 36602 | 6266 | Rust | 92 | :crab: Small exercises to get you used to reading and writing Rust code! | 2023-04-02T10:46:50Z |
-| 9 | [meilisearch](https://github.com/meilisearch/meilisearch) | 35355 | 1276 | Rust | 115 | A lightning-fast search engine that fits effortlessly into your apps, websites, and workflow. | 2023-04-03T19:14:45Z |
+| 9 | [meilisearch](https://github.com/meilisearch/meilisearch) | 35357 | 1276 | Rust | 115 | A lightning-fast search engine that fits effortlessly into your apps, websites, and workflow. | 2023-04-03T19:14:45Z |
 | 10 | [awesome-rust](https://github.com/rust-unofficial/awesome-rust) | 33628 | 2135 | Rust | 11 | A curated list of Rust code and resources. | 2023-04-03T19:45:14Z |
 
 
