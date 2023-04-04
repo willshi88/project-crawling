@@ -159,7 +159,7 @@ class WriteFile(object):
     def write_head_contents():
         # write the head and contents of README.md
         write_time = datetime.utcnow().strftime("%Y-%m-%dT%H:%M:%SZ")
-        head_contents = inspect.cleandoc("""[Github Ranking](./README.md)
+        head_contents = inspect.cleandoc("""[Project-Crawling](./README.md)
             ==========
 
             **A list of the most github stars and forks repositories.**
@@ -184,7 +184,7 @@ class WriteFile(object):
 
             # Top 100 file
             write_text(f"../Top100/{file_100}", "w",
-                       f"[Github Ranking](../README.md)\n==========\n\n## {title_100}\n\n")
+                       f"[Project-Crawling](../README.md)\n==========\n\n## {title_100}\n\n")
             write_ranking_repo(f"../Top100/{file_100}", 'a', data)
             print(f"Save {title_100} in Top100/{file_100}!\n")
 
@@ -207,8 +207,8 @@ class WriteFile(object):
 
         save_date = datetime.utcnow().strftime("%Y-%m-%d")
         os.makedirs('../Data', exist_ok=True)
-        df_all.to_csv('../Data/project-crawling-' + save_date + '.csv', index=False, encoding='utf-8')
-        print('Save data to Data/project-crawling-' + save_date + '.csv')
+        df_all.to_csv('../Data/Project-Crawling-' + save_date + '.csv', index=False, encoding='utf-8')
+        print('Save data to Data/Project-Crawling-' + save_date + '.csv')
 
 
 def run_by_gql():
