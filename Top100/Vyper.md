@@ -45,10 +45,10 @@
 | 38 | [eXRP-Contracts](https://github.com/ObiajuluM/eXRP-Contracts) | 1 | 0 | Vyper | 0 | Contracts to emulate XRPL objects on EVM chains | 2022-10-21T09:11:56Z |
 | 39 | [WethTest](https://github.com/rockorama/WethTest) | 1 | 0 | Vyper | 0 | None | 2022-11-22T01:20:08Z |
 | 40 | [vyper](https://github.com/MaicFdz/vyper) | 1 | 0 | Vyper | 0 | None | 2022-08-31T18:11:35Z |
-| 41 | [fair-funding](https://github.com/Unstoppable-DeFi/fair-funding) | 1 | 0 | Vyper | 0 | None | 2023-03-16T07:35:19Z |
-| 42 | [CPAMM-Vy](https://github.com/mrWojackETH/CPAMM-Vy) | 1 | 0 | Vyper | 0 | CPAMM coded using Vyper  | 2022-09-18T18:22:12Z |
-| 43 | [Hackxyk-Stablecoin-Challenges](https://github.com/0xJCN/Hackxyk-Stablecoin-Challenges) | 1 | 0 | Vyper | 0 | Hackxyk Stablecoin Challenges implementation with Ape, exploits with Vyper | 2023-01-31T13:16:46Z |
-| 44 | [vybes](https://github.com/0xMaka/vybes) | 1 | 0 | Vyper | 0 | For fun and study, with some vy (and maybe a lil py). | 2023-01-01T22:51:25Z |
+| 41 | [CPAMM-Vy](https://github.com/mrWojackETH/CPAMM-Vy) | 1 | 0 | Vyper | 0 | CPAMM coded using Vyper  | 2022-09-18T18:22:12Z |
+| 42 | [fair-funding](https://github.com/Unstoppable-DeFi/fair-funding) | 1 | 0 | Vyper | 0 | None | 2023-03-16T07:35:19Z |
+| 43 | [vybes](https://github.com/0xMaka/vybes) | 1 | 0 | Vyper | 0 | For fun and study, with some vy (and maybe a lil py). | 2023-01-01T22:51:25Z |
+| 44 | [Hackxyk-Stablecoin-Challenges](https://github.com/0xJCN/Hackxyk-Stablecoin-Challenges) | 1 | 0 | Vyper | 0 | Hackxyk Stablecoin Challenges implementation with Ape, exploits with Vyper | 2023-01-31T13:16:46Z |
 | 45 | [zap-eth](https://github.com/pandadefi/zap-eth) | 1 | 0 | Vyper | 0 | None | 2022-06-23T14:38:58Z |
 | 46 | [mind](https://github.com/nanefi/mind) | 1 | 0 | Vyper | 0 | Smart contracts for Nane | 2022-04-23T09:02:30Z |
 | 47 | [Staking-Vyper](https://github.com/mrWojackETH/Staking-Vyper) | 1 | 0 | Vyper | 0 | Staking rewards vyper app based on Syntetix code. | 2022-09-28T08:30:59Z |

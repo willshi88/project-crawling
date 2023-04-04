@@ -6,10 +6,10 @@
 | Ranking | Project Name | Stars | Forks | Language | Open Issues | Description | Last Commit |
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
 | 1 | [EIPs](https://github.com/ethereum/EIPs) | 11355 | 4545 | Solidity | 16 | The Ethereum Improvement Proposal repository | 2023-04-03T20:00:11Z |
-| 2 | [WTF-Solidity](https://github.com/AmazingAng/WTF-Solidity) | 6755 | 1067 | Solidity | 6 | 我最近在重新学solidity，巩固一下细节，也写一个“WTF Solidity极简入门”，供小白们使用，每周更新1-3讲。官网: https://wtf.academy | 2023-04-03T18:49:41Z |
+| 2 | [WTF-Solidity](https://github.com/AmazingAng/WTF-Solidity) | 6753 | 1067 | Solidity | 6 | 我最近在重新学solidity，巩固一下细节，也写一个“WTF Solidity极简入门”，供小白们使用，每周更新1-3讲。官网: https://wtf.academy | 2023-04-03T18:49:41Z |
 | 3 | [Dapp-Learning](https://github.com/Dapp-Learning-DAO/Dapp-Learning) | 3727 | 1011 | Solidity | 10 | Dapp learning project for developers at all stages. Becoming and cultivating sovereign individuals. Nonprofit organization. | 2023-04-03T07:46:08Z |
 | 4 | [solmate](https://github.com/transmissions11/solmate) | 2972 | 458 | Solidity | 50 | Modern, opinionated, and gas optimized building blocks for smart contract development. | 2023-03-27T04:10:59Z |
-| 5 | [DeFiHackLabs](https://github.com/SunWeb3Sec/DeFiHackLabs) | 2845 | 516 | Solidity | 0 | Reproduce DeFi hacked incidents using Foundry. | 2023-04-02T13:58:48Z |
+| 5 | [DeFiHackLabs](https://github.com/SunWeb3Sec/DeFiHackLabs) | 2846 | 516 | Solidity | 0 | Reproduce DeFi hacked incidents using Foundry. | 2023-04-02T13:58:48Z |
 | 6 | [AirCash](https://github.com/Aircoin-official/AirCash) | 2776 | 644 | Solidity | 0 | Cash system for AIR. | 2022-04-10T11:28:24Z |
 | 7 | [solidity-patterns](https://github.com/fravoll/solidity-patterns) | 2735 | 469 | Solidity | 1 | A compilation of patterns and best practices for the smart contract programming language Solidity | 2023-03-22T13:48:58Z |
 | 8 | [ERC721A](https://github.com/chiru-labs/ERC721A) | 2258 | 842 | Solidity | 22 | https://ERC721A.org | 2023-03-28T21:59:50Z |
@@ -23,10 +23,10 @@
 | 16 | [lil-web3](https://github.com/m1guelpf/lil-web3) | 1135 | 100 | Solidity | 6 | Simple, intentionally-limited versions of web3 protocols & apps. | 2022-11-20T02:37:04Z |
 | 17 | [defi-bot](https://github.com/ExtropyIO/defi-bot) | 1116 | 463 | Solidity | 14 | Tutorial for building DeFi arbitrage bots | 2022-03-22T11:25:05Z |
 | 18 | [solidity-stringutils](https://github.com/Arachnid/solidity-stringutils) | 1030 | 346 | Solidity | 24 | Basic string utilities for Solidity | 2022-08-15T09:53:22Z |
-| 19 | [erc721](https://github.com/nibbstack/erc721) | 1018 | 385 | Solidity | 5 | The reference implementation of the ERC-721 non-fungible token standard. | 2022-08-10T08:06:18Z |
-| 20 | [solady](https://github.com/Vectorized/solady) | 1018 | 88 | Solidity | 5 | Optimized Solidity snippets. | 2023-04-01T14:30:58Z |
-| 21 | [solidity-expert](https://github.com/dukedaily/solidity-expert) | 956 | 188 | Solidity | 1 | 4年打磨-2022年海外一线大厂-以太坊开发教程（a solidity tutorial makes you a dapp expert）WIP | 2023-03-25T04:46:24Z |
-| 22 | [money-legos](https://github.com/studydefi/money-legos) | 955 | 216 | Solidity | 13 | 💰One stop shop for Ethereum ABIs, addresses, and Solidity interfaces! | 2023-01-24T02:12:07Z |
+| 19 | [solady](https://github.com/Vectorized/solady) | 1019 | 88 | Solidity | 5 | Optimized Solidity snippets. | 2023-04-01T14:30:58Z |
+| 20 | [erc721](https://github.com/nibbstack/erc721) | 1018 | 385 | Solidity | 5 | The reference implementation of the ERC-721 non-fungible token standard. | 2022-08-10T08:06:18Z |
+| 21 | [money-legos](https://github.com/studydefi/money-legos) | 955 | 216 | Solidity | 13 | 💰One stop shop for Ethereum ABIs, addresses, and Solidity interfaces! | 2023-01-24T02:12:07Z |
+| 22 | [solidity-expert](https://github.com/dukedaily/solidity-expert) | 954 | 188 | Solidity | 1 | 4年打磨-2022年海外一线大厂-以太坊开发教程（a solidity tutorial makes you a dapp expert）WIP | 2023-03-25T04:46:24Z |
 | 23 | [awesome-solidity-gas-optimization](https://github.com/iskdrews/awesome-solidity-gas-optimization) | 954 | 81 | Solidity | 0 | Best resources for Solidity gas optimizations ⛽ | 2022-09-17T20:22:55Z |
 | 24 | [Web3Bugs](https://github.com/ZhangZhuoSJTU/Web3Bugs) | 937 | 115 | Solidity | 8 | Demystifying Exploitable Bugs in Smart Contracts | 2023-03-20T18:00:18Z |
 | 25 | [v2-periphery](https://github.com/Uniswap/v2-periphery) | 931 | 1511 | Solidity | 37 | 🎚 Peripheral smart contracts for interacting with Uniswap V2 | 2023-04-01T10:23:04Z |
@@ -39,14 +39,14 @@
 | 32 | [multicall](https://github.com/makerdao/multicall) | 806 | 325 | Solidity | 6 | Multicall: Aggregate multiple constant function call results into one | 2023-03-26T08:19:51Z |
 | 33 | [nft-mix](https://github.com/PatrickAlphaC/nft-mix) | 804 | 418 | Solidity | 11 | None | 2022-04-25T02:11:34Z |
 | 34 | [hashlips_nft_contract](https://github.com/HashLips/hashlips_nft_contract) | 800 | 677 | Solidity | 48 | A simple NFT smart contract that works with the rest of the HashLips ecosystem. | 2022-10-23T16:20:12Z |
-| 35 | [ethereum-api](https://github.com/provable-things/ethereum-api) | 764 | 427 | Solidity | 11 | Provable API for Ethereum smart contracts | 2023-02-16T21:45:20Z |
-| 36 | [unlock](https://github.com/unlock-protocol/unlock) | 744 | 194 | Solidity | 115 | Ʉnlock is a protocol for memberships built on a blockchain. | 2023-04-04T00:20:29Z |
+| 35 | [ethereum-api](https://github.com/provable-things/ethereum-api) | 765 | 427 | Solidity | 11 | Provable API for Ethereum smart contracts | 2023-02-16T21:45:20Z |
+| 36 | [unlock](https://github.com/unlock-protocol/unlock) | 744 | 194 | Solidity | 115 | Ʉnlock is a protocol for memberships built on a blockchain. | 2023-04-04T00:38:10Z |
 | 37 | [defi-sdk](https://github.com/zeriontech/defi-sdk) | 731 | 228 | Solidity | 23 | DeFi SDK Makes Money Lego Work | 2023-03-03T13:44:27Z |
 | 38 | [SWC-registry](https://github.com/SmartContractSecurity/SWC-registry) | 720 | 143 | Solidity | 15 | Smart Contract Weakness Classification and Test Cases | 2023-03-07T16:23:27Z |
 | 39 | [olympus-contracts](https://github.com/OlympusDAO/olympus-contracts) | 716 | 949 | Solidity | 42 | None | 2023-01-25T20:06:27Z |
 | 40 | [weird-erc20](https://github.com/d-xo/weird-erc20) | 701 | 78 | Solidity | 1 | weird erc20 tokens | 2023-02-28T14:40:56Z |
 | 41 | [contracts](https://github.com/thirdweb-dev/contracts) | 679 | 324 | Solidity | 3 | Collection of smart contracts deployable via thirdweb | 2023-03-29T00:01:31Z |
-| 42 | [DARC](https://github.com/Project-DARC/DARC) | 678 | 34 | Solidity | 0 | Decentralized Autonomous Regulated Company (DARC) is a virtual machine company that runs on any EVM-compatible blockchain. It features a built-in multi-token and plugin system. | 2023-04-03T03:11:53Z |
+| 42 | [DARC](https://github.com/Project-DARC/DARC) | 679 | 34 | Solidity | 0 | Decentralized Autonomous Regulated Company (DARC) is a virtual machine company that runs on any EVM-compatible blockchain. It features a built-in multi-token and plugin system. | 2023-04-03T03:11:53Z |
 | 43 | [Safemoon.sol](https://github.com/safemoonprotocol/Safemoon.sol) | 666 | 934 | Solidity | 97 | safemoon contract | 2022-05-27T01:22:07Z |
 | 44 | [Journey-to-become-a-Blockchain-Engineer](https://github.com/spo0ds/Journey-to-become-a-Blockchain-Engineer) | 657 | 163 | Solidity | 0 | I'm sharing everything I'm learning to become a Blockchain Engineer | 2023-02-26T18:03:10Z |
 | 45 | [dss](https://github.com/makerdao/dss) | 655 | 377 | Solidity | 11 | Dai Stablecoin System | 2023-03-26T09:20:06Z |
@@ -77,8 +77,8 @@
 | 70 | [securify2](https://github.com/eth-sri/securify2) | 480 | 98 | Solidity | 32 | Securify v2.0 | 2022-08-28T02:30:55Z |
 | 71 | [permit2](https://github.com/Uniswap/permit2) | 480 | 65 | Solidity | 4 | 🔑🔑🔑 next generation token approvals mechanism | 2023-03-08T18:00:31Z |
 | 72 | [optimism-tutorial](https://github.com/ethereum-optimism/optimism-tutorial) | 465 | 185 | Solidity | 1 | Build your first app on Optimism! | 2023-03-27T20:54:54Z |
-| 73 | [argent-contracts](https://github.com/argentlabs/argent-contracts) | 464 | 158 | Solidity | 4 | Smart Contracts for Argent Wallet | 2023-03-12T11:12:24Z |
-| 74 | [ctf-blockchain](https://github.com/minaminao/ctf-blockchain) | 464 | 33 | Solidity | 0 | A summary of 100+ CTF blockchain challenges | 2023-04-01T01:04:50Z |
+| 73 | [ctf-blockchain](https://github.com/minaminao/ctf-blockchain) | 464 | 33 | Solidity | 0 | A summary of 100+ CTF blockchain challenges | 2023-04-01T01:04:50Z |
+| 74 | [argent-contracts](https://github.com/argentlabs/argent-contracts) | 464 | 158 | Solidity | 4 | Smart Contracts for Argent Wallet | 2023-03-12T11:12:24Z |
 | 75 | [1inchProtocol](https://github.com/1inch/1inchProtocol) | 458 | 270 | Solidity | 40 | 1inch Protocol – fully on-chain DeFi aggregation protocol | 2021-10-27T22:22:40Z |
 | 76 | [sMEV](https://github.com/bertmiller/sMEV) | 448 | 102 | Solidity | 1 | None | 2021-09-06T10:59:41Z |
 | 77 | [chainlink-mix](https://github.com/smartcontractkit/chainlink-mix) | 447 | 178 | Solidity | 9 | Working with smart contracts with eth-brownie, python, and Chainlink.  | 2023-02-08T20:58:39Z |

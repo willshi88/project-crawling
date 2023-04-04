@@ -1,9 +1,9 @@
 rank,item,repo_name,stars,forks,language,repo_url,username,issues,last_commit,description
 1,Solidity,EIPs,11355,4545,Solidity,https://github.com/ethereum/EIPs,ethereum,16,2023-04-03T20:00:11Z,The Ethereum Improvement Proposal repository
-2,Solidity,WTF-Solidity,6755,1067,Solidity,https://github.com/AmazingAng/WTF-Solidity,AmazingAng,6,2023-04-03T18:49:41Z,我最近在重新学solidity，巩固一下细节，也写一个“WTF Solidity极简入门”，供小白们使用，每周更新1-3讲。官网: https://wtf.academy
+2,Solidity,WTF-Solidity,6753,1067,Solidity,https://github.com/AmazingAng/WTF-Solidity,AmazingAng,6,2023-04-03T18:49:41Z,我最近在重新学solidity，巩固一下细节，也写一个“WTF Solidity极简入门”，供小白们使用，每周更新1-3讲。官网: https://wtf.academy
 3,Solidity,Dapp-Learning,3727,1011,Solidity,https://github.com/Dapp-Learning-DAO/Dapp-Learning,Dapp-Learning-DAO,10,2023-04-03T07:46:08Z,Dapp learning project for developers at all stages. Becoming and cultivating sovereign individuals. Nonprofit organization.
 4,Solidity,solmate,2972,458,Solidity,https://github.com/transmissions11/solmate,transmissions11,50,2023-03-27T04:10:59Z,"Modern, opinionated, and gas optimized building blocks for smart contract development."
-5,Solidity,DeFiHackLabs,2845,516,Solidity,https://github.com/SunWeb3Sec/DeFiHackLabs,SunWeb3Sec,0,2023-04-02T13:58:48Z,Reproduce DeFi hacked incidents using Foundry.
+5,Solidity,DeFiHackLabs,2846,516,Solidity,https://github.com/SunWeb3Sec/DeFiHackLabs,SunWeb3Sec,0,2023-04-02T13:58:48Z,Reproduce DeFi hacked incidents using Foundry.
 6,Solidity,AirCash,2776,644,Solidity,https://github.com/Aircoin-official/AirCash,Aircoin-official,0,2022-04-10T11:28:24Z,Cash system for AIR.
 7,Solidity,solidity-patterns,2735,469,Solidity,https://github.com/fravoll/solidity-patterns,fravoll,1,2023-03-22T13:48:58Z,A compilation of patterns and best practices for the smart contract programming language Solidity
 8,Solidity,ERC721A,2258,842,Solidity,https://github.com/chiru-labs/ERC721A,chiru-labs,22,2023-03-28T21:59:50Z,https://ERC721A.org
@@ -17,10 +17,10 @@ rank,item,repo_name,stars,forks,language,repo_url,username,issues,last_commit,de
 16,Solidity,lil-web3,1135,100,Solidity,https://github.com/m1guelpf/lil-web3,m1guelpf,6,2022-11-20T02:37:04Z,"Simple, intentionally-limited versions of web3 protocols & apps."
 17,Solidity,defi-bot,1116,463,Solidity,https://github.com/ExtropyIO/defi-bot,ExtropyIO,14,2022-03-22T11:25:05Z,Tutorial for building DeFi arbitrage bots
 18,Solidity,solidity-stringutils,1030,346,Solidity,https://github.com/Arachnid/solidity-stringutils,Arachnid,24,2022-08-15T09:53:22Z,Basic string utilities for Solidity
-19,Solidity,erc721,1018,385,Solidity,https://github.com/nibbstack/erc721,nibbstack,5,2022-08-10T08:06:18Z,The reference implementation of the ERC-721 non-fungible token standard.
-20,Solidity,solady,1018,88,Solidity,https://github.com/Vectorized/solady,Vectorized,5,2023-04-01T14:30:58Z,Optimized Solidity snippets.
-21,Solidity,solidity-expert,956,188,Solidity,https://github.com/dukedaily/solidity-expert,dukedaily,1,2023-03-25T04:46:24Z,4年打磨-2022年海外一线大厂-以太坊开发教程（a solidity tutorial makes you a dapp expert）WIP
-22,Solidity,money-legos,955,216,Solidity,https://github.com/studydefi/money-legos,studydefi,13,2023-01-24T02:12:07Z,"💰One stop shop for Ethereum ABIs, addresses, and Solidity interfaces!"
+19,Solidity,solady,1019,88,Solidity,https://github.com/Vectorized/solady,Vectorized,5,2023-04-01T14:30:58Z,Optimized Solidity snippets.
+20,Solidity,erc721,1018,385,Solidity,https://github.com/nibbstack/erc721,nibbstack,5,2022-08-10T08:06:18Z,The reference implementation of the ERC-721 non-fungible token standard.
+21,Solidity,money-legos,955,216,Solidity,https://github.com/studydefi/money-legos,studydefi,13,2023-01-24T02:12:07Z,"💰One stop shop for Ethereum ABIs, addresses, and Solidity interfaces!"
+22,Solidity,solidity-expert,954,188,Solidity,https://github.com/dukedaily/solidity-expert,dukedaily,1,2023-03-25T04:46:24Z,4年打磨-2022年海外一线大厂-以太坊开发教程（a solidity tutorial makes you a dapp expert）WIP
 23,Solidity,awesome-solidity-gas-optimization,954,81,Solidity,https://github.com/iskdrews/awesome-solidity-gas-optimization,iskdrews,0,2022-09-17T20:22:55Z,Best resources for Solidity gas optimizations ⛽
 24,Solidity,Web3Bugs,937,115,Solidity,https://github.com/ZhangZhuoSJTU/Web3Bugs,ZhangZhuoSJTU,8,2023-03-20T18:00:18Z,Demystifying Exploitable Bugs in Smart Contracts
 25,Solidity,v2-periphery,931,1511,Solidity,https://github.com/Uniswap/v2-periphery,Uniswap,37,2023-04-01T10:23:04Z,🎚 Peripheral smart contracts for interacting with Uniswap V2
@@ -33,14 +33,14 @@ rank,item,repo_name,stars,forks,language,repo_url,username,issues,last_commit,de
 32,Solidity,multicall,806,325,Solidity,https://github.com/makerdao/multicall,makerdao,6,2023-03-26T08:19:51Z,Multicall: Aggregate multiple constant function call results into one
 33,Solidity,nft-mix,804,418,Solidity,https://github.com/PatrickAlphaC/nft-mix,PatrickAlphaC,11,2022-04-25T02:11:34Z,
 34,Solidity,hashlips_nft_contract,800,677,Solidity,https://github.com/HashLips/hashlips_nft_contract,HashLips,48,2022-10-23T16:20:12Z,A simple NFT smart contract that works with the rest of the HashLips ecosystem.
-35,Solidity,ethereum-api,764,427,Solidity,https://github.com/provable-things/ethereum-api,provable-things,11,2023-02-16T21:45:20Z,Provable API for Ethereum smart contracts
-36,Solidity,unlock,744,194,Solidity,https://github.com/unlock-protocol/unlock,unlock-protocol,115,2023-04-04T00:20:29Z,Ʉnlock is a protocol for memberships built on a blockchain.
+35,Solidity,ethereum-api,765,427,Solidity,https://github.com/provable-things/ethereum-api,provable-things,11,2023-02-16T21:45:20Z,Provable API for Ethereum smart contracts
+36,Solidity,unlock,744,194,Solidity,https://github.com/unlock-protocol/unlock,unlock-protocol,115,2023-04-04T00:38:10Z,Ʉnlock is a protocol for memberships built on a blockchain.
 37,Solidity,defi-sdk,731,228,Solidity,https://github.com/zeriontech/defi-sdk,zeriontech,23,2023-03-03T13:44:27Z,DeFi SDK Makes Money Lego Work
 38,Solidity,SWC-registry,720,143,Solidity,https://github.com/SmartContractSecurity/SWC-registry,SmartContractSecurity,15,2023-03-07T16:23:27Z,Smart Contract Weakness Classification and Test Cases
 39,Solidity,olympus-contracts,716,949,Solidity,https://github.com/OlympusDAO/olympus-contracts,OlympusDAO,42,2023-01-25T20:06:27Z,
 40,Solidity,weird-erc20,701,78,Solidity,https://github.com/d-xo/weird-erc20,d-xo,1,2023-02-28T14:40:56Z,weird erc20 tokens
 41,Solidity,contracts,679,324,Solidity,https://github.com/thirdweb-dev/contracts,thirdweb-dev,3,2023-03-29T00:01:31Z,Collection of smart contracts deployable via thirdweb
-42,Solidity,DARC,678,34,Solidity,https://github.com/Project-DARC/DARC,Project-DARC,0,2023-04-03T03:11:53Z,Decentralized Autonomous Regulated Company (DARC) is a virtual machine company that runs on any EVM-compatible blockchain. It features a built-in multi-token and plugin system.
+42,Solidity,DARC,679,34,Solidity,https://github.com/Project-DARC/DARC,Project-DARC,0,2023-04-03T03:11:53Z,Decentralized Autonomous Regulated Company (DARC) is a virtual machine company that runs on any EVM-compatible blockchain. It features a built-in multi-token and plugin system.
 43,Solidity,Safemoon.sol,666,934,Solidity,https://github.com/safemoonprotocol/Safemoon.sol,safemoonprotocol,97,2022-05-27T01:22:07Z,safemoon contract
 44,Solidity,Journey-to-become-a-Blockchain-Engineer,657,163,Solidity,https://github.com/spo0ds/Journey-to-become-a-Blockchain-Engineer,spo0ds,0,2023-02-26T18:03:10Z,I'm sharing everything I'm learning to become a Blockchain Engineer
 45,Solidity,dss,655,377,Solidity,https://github.com/makerdao/dss,makerdao,11,2023-03-26T09:20:06Z,Dai Stablecoin System
@@ -71,8 +71,8 @@ rank,item,repo_name,stars,forks,language,repo_url,username,issues,last_commit,de
 70,Solidity,securify2,480,98,Solidity,https://github.com/eth-sri/securify2,eth-sri,32,2022-08-28T02:30:55Z,Securify v2.0
 71,Solidity,permit2,480,65,Solidity,https://github.com/Uniswap/permit2,Uniswap,4,2023-03-08T18:00:31Z,🔑🔑🔑 next generation token approvals mechanism
 72,Solidity,optimism-tutorial,465,185,Solidity,https://github.com/ethereum-optimism/optimism-tutorial,ethereum-optimism,1,2023-03-27T20:54:54Z,Build your first app on Optimism!
-73,Solidity,argent-contracts,464,158,Solidity,https://github.com/argentlabs/argent-contracts,argentlabs,4,2023-03-12T11:12:24Z,Smart Contracts for Argent Wallet
-74,Solidity,ctf-blockchain,464,33,Solidity,https://github.com/minaminao/ctf-blockchain,minaminao,0,2023-04-01T01:04:50Z,A summary of 100+ CTF blockchain challenges
+73,Solidity,ctf-blockchain,464,33,Solidity,https://github.com/minaminao/ctf-blockchain,minaminao,0,2023-04-01T01:04:50Z,A summary of 100+ CTF blockchain challenges
+74,Solidity,argent-contracts,464,158,Solidity,https://github.com/argentlabs/argent-contracts,argentlabs,4,2023-03-12T11:12:24Z,Smart Contracts for Argent Wallet
 75,Solidity,1inchProtocol,458,270,Solidity,https://github.com/1inch/1inchProtocol,1inch,40,2021-10-27T22:22:40Z,1inch Protocol – fully on-chain DeFi aggregation protocol
 76,Solidity,sMEV,448,102,Solidity,https://github.com/bertmiller/sMEV,bertmiller,1,2021-09-06T10:59:41Z,
 77,Solidity,chainlink-mix,447,178,Solidity,https://github.com/smartcontractkit/chainlink-mix,smartcontractkit,9,2023-02-08T20:58:39Z,"Working with smart contracts with eth-brownie, python, and Chainlink. "
@@ -139,10 +139,10 @@ rank,item,repo_name,stars,forks,language,repo_url,username,issues,last_commit,de
 38,Vyper,eXRP-Contracts,1,0,Vyper,https://github.com/ObiajuluM/eXRP-Contracts,ObiajuluM,0,2022-10-21T09:11:56Z,Contracts to emulate XRPL objects on EVM chains
 39,Vyper,WethTest,1,0,Vyper,https://github.com/rockorama/WethTest,rockorama,0,2022-11-22T01:20:08Z,
 40,Vyper,vyper,1,0,Vyper,https://github.com/MaicFdz/vyper,MaicFdz,0,2022-08-31T18:11:35Z,
-41,Vyper,fair-funding,1,0,Vyper,https://github.com/Unstoppable-DeFi/fair-funding,Unstoppable-DeFi,0,2023-03-16T07:35:19Z,
-42,Vyper,CPAMM-Vy,1,0,Vyper,https://github.com/mrWojackETH/CPAMM-Vy,mrWojackETH,0,2022-09-18T18:22:12Z,CPAMM coded using Vyper 
-43,Vyper,Hackxyk-Stablecoin-Challenges,1,0,Vyper,https://github.com/0xJCN/Hackxyk-Stablecoin-Challenges,0xJCN,0,2023-01-31T13:16:46Z,"Hackxyk Stablecoin Challenges implementation with Ape, exploits with Vyper"
-44,Vyper,vybes,1,0,Vyper,https://github.com/0xMaka/vybes,0xMaka,0,2023-01-01T22:51:25Z,"For fun and study, with some vy (and maybe a lil py)."
+41,Vyper,CPAMM-Vy,1,0,Vyper,https://github.com/mrWojackETH/CPAMM-Vy,mrWojackETH,0,2022-09-18T18:22:12Z,CPAMM coded using Vyper 
+42,Vyper,fair-funding,1,0,Vyper,https://github.com/Unstoppable-DeFi/fair-funding,Unstoppable-DeFi,0,2023-03-16T07:35:19Z,
+43,Vyper,vybes,1,0,Vyper,https://github.com/0xMaka/vybes,0xMaka,0,2023-01-01T22:51:25Z,"For fun and study, with some vy (and maybe a lil py)."
+44,Vyper,Hackxyk-Stablecoin-Challenges,1,0,Vyper,https://github.com/0xJCN/Hackxyk-Stablecoin-Challenges,0xJCN,0,2023-01-31T13:16:46Z,"Hackxyk Stablecoin Challenges implementation with Ape, exploits with Vyper"
 45,Vyper,zap-eth,1,0,Vyper,https://github.com/pandadefi/zap-eth,pandadefi,0,2022-06-23T14:38:58Z,
 46,Vyper,mind,1,0,Vyper,https://github.com/nanefi/mind,nanefi,0,2022-04-23T09:02:30Z,Smart contracts for Nane
 47,Vyper,Staking-Vyper,1,0,Vyper,https://github.com/mrWojackETH/Staking-Vyper,mrWojackETH,0,2022-09-28T08:30:59Z,Staking rewards vyper app based on Syntetix code.
@@ -152,18 +152,18 @@ rank,item,repo_name,stars,forks,language,repo_url,username,issues,last_commit,de
 51,Vyper,mimo-dao-contracts,1,0,Vyper,https://github.com/mimoprotocol/mimo-dao-contracts,mimoprotocol,0,2022-05-06T02:46:24Z,
 52,Vyper,magic-stablecoin,1,0,Vyper,https://github.com/0xMannny/magic-stablecoin,0xMannny,0,2023-02-22T19:09:07Z,It's magic!
 53,Vyper,2023-02-fair-funding,1,0,Vyper,https://github.com/sherlock-audit/2023-02-fair-funding,sherlock-audit,0,2023-03-03T20:42:22Z,
-1,Rust,deno,88770,4810,Rust,https://github.com/denoland/deno,denoland,1216,2023-04-03T20:58:44Z,A modern runtime for JavaScript and TypeScript.
-2,Rust,rust,79778,10593,Rust,https://github.com/rust-lang/rust,rust-lang,8858,2023-04-04T00:17:01Z,Empowering everyone to build reliable and efficient software.
+1,Rust,deno,88770,4810,Rust,https://github.com/denoland/deno,denoland,1216,2023-04-04T00:31:18Z,A modern runtime for JavaScript and TypeScript.
+2,Rust,rust,79778,10593,Rust,https://github.com/rust-lang/rust,rust-lang,8860,2023-04-04T00:34:48Z,Empowering everyone to build reliable and efficient software.
 3,Rust,tauri,61730,1638,Rust,https://github.com/tauri-apps/tauri,tauri-apps,393,2023-04-04T00:17:18Z,"Build smaller, faster, and more secure desktop applications with a web frontend."
 4,Rust,alacritty,45837,2734,Rust,https://github.com/alacritty/alacritty,alacritty,304,2023-04-03T22:58:07Z,"A cross-platform, OpenGL terminal emulator."
 5,Rust,bat,40507,1060,Rust,https://github.com/sharkdp/bat,sharkdp,176,2023-04-01T02:58:15Z,A cat(1) clone with wings.
 6,Rust,rustdesk,40123,3798,Rust,https://github.com/rustdesk/rustdesk,rustdesk,114,2023-04-04T00:15:09Z,Virtual / remote desktop infrastructure for everyone! Open source TeamViewer / Citrix alternative.
 7,Rust,ripgrep,36963,1653,Rust,https://github.com/BurntSushi/ripgrep,BurntSushi,143,2023-04-03T19:13:14Z,ripgrep recursively searches directories for a regex pattern while respecting your gitignore
 8,Rust,rustlings,36602,6266,Rust,https://github.com/rust-lang/rustlings,rust-lang,92,2023-04-02T10:46:50Z,:crab: Small exercises to get you used to reading and writing Rust code!
-9,Rust,meilisearch,35352,1276,Rust,https://github.com/meilisearch/meilisearch,meilisearch,115,2023-04-03T19:14:45Z,"A lightning-fast search engine that fits effortlessly into your apps, websites, and workflow."
+9,Rust,meilisearch,35353,1276,Rust,https://github.com/meilisearch/meilisearch,meilisearch,115,2023-04-03T19:14:45Z,"A lightning-fast search engine that fits effortlessly into your apps, websites, and workflow."
 10,Rust,awesome-rust,33627,2135,Rust,https://github.com/rust-unofficial/awesome-rust,rust-unofficial,11,2023-04-03T19:45:14Z,A curated list of Rust code and resources.
 11,Rust,starship,33508,1434,Rust,https://github.com/starship/starship,starship,419,2023-04-03T20:43:15Z,"☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell!"
-12,Rust,ChatGPT,29268,2993,Rust,https://github.com/lencx/ChatGPT,lencx,289,2023-04-02T04:55:01Z,"🔮 ChatGPT Desktop Application (Mac, Windows and Linux)"
+12,Rust,ChatGPT,29271,2993,Rust,https://github.com/lencx/ChatGPT,lencx,289,2023-04-02T04:55:01Z,"🔮 ChatGPT Desktop Application (Mac, Windows and Linux)"
 13,Rust,yew,26991,1294,Rust,https://github.com/yewstack/yew,yewstack,96,2023-04-03T20:50:27Z,Rust / Wasm framework for building client web apps
 14,Rust,fd,26957,686,Rust,https://github.com/sharkdp/fd,sharkdp,68,2023-04-01T20:32:17Z,"A simple, fast and user-friendly alternative to 'find'"
 15,Rust,swc,26825,950,Rust,https://github.com/swc-project/swc,swc-project,321,2023-04-03T20:27:43Z,Rust-based platform for the Web
@@ -171,20 +171,20 @@ rank,item,repo_name,stars,forks,language,repo_url,username,issues,last_commit,de
 17,Rust,vaultwarden,24105,1226,Rust,https://github.com/dani-garcia/vaultwarden,dani-garcia,8,2023-04-02T21:36:46Z,"Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs"
 18,Rust,nushell,24078,1190,Rust,https://github.com/nushell/nushell,nushell,741,2023-04-03T23:40:32Z,A new type of shell
 19,Rust,tools,23079,661,Rust,https://github.com/rome/tools,rome,123,2023-04-03T15:14:32Z,"Unified developer tools for JavaScript, TypeScript, and the web"
-20,Rust,bevy,23014,2316,Rust,https://github.com/bevyengine/bevy,bevyengine,995,2023-04-03T23:43:13Z,A refreshingly simple data-driven game engine built in Rust
+20,Rust,bevy,23014,2316,Rust,https://github.com/bevyengine/bevy,bevyengine,995,2023-04-04T00:35:05Z,A refreshingly simple data-driven game engine built in Rust
 21,Rust,exa,21276,625,Rust,https://github.com/ogham/exa,ogham,252,2023-03-30T14:59:41Z,A modern replacement for ‘ls’.
-22,Rust,firecracker,21225,1516,Rust,https://github.com/firecracker-microvm/firecracker,firecracker-microvm,123,2023-04-03T18:49:29Z,Secure and fast microVMs for serverless computing.
-23,Rust,helix,20697,1429,Rust,https://github.com/helix-editor/helix,helix-editor,795,2023-04-03T23:58:42Z,A post-modern modal text editor.
-24,Rust,turbo,20546,1357,Rust,https://github.com/vercel/turbo,vercel,325,2023-04-03T23:35:02Z,"Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust – including Turbopack and Turborepo."
-25,Rust,Rocket,20304,1408,Rust,https://github.com/SergioBenitez/Rocket,SergioBenitez,63,2023-04-03T23:09:59Z,A web framework for Rust.
+22,Rust,firecracker,21226,1516,Rust,https://github.com/firecracker-microvm/firecracker,firecracker-microvm,123,2023-04-03T18:49:29Z,Secure and fast microVMs for serverless computing.
+23,Rust,helix,20699,1429,Rust,https://github.com/helix-editor/helix,helix-editor,795,2023-04-03T23:58:42Z,A post-modern modal text editor.
+24,Rust,turbo,20546,1358,Rust,https://github.com/vercel/turbo,vercel,325,2023-04-04T00:33:46Z,"Incremental bundler and build system optimized for JavaScript and TypeScript, written in Rust – including Turbopack and Turborepo."
+25,Rust,Rocket,20305,1408,Rust,https://github.com/SergioBenitez/Rocket,SergioBenitez,63,2023-04-03T23:09:59Z,A web framework for Rust.
 26,Rust,tokio,19995,1869,Rust,https://github.com/tokio-rs/tokio,tokio-rs,230,2023-04-03T19:23:25Z,"A runtime for writing reliable asynchronous applications with Rust. Provides I/O, networking, scheduling, timers, ..."
 27,Rust,xi-editor,19725,712,Rust,https://github.com/xi-editor/xi-editor,xi-editor,131,2023-04-03T20:08:58Z,A modern editor with a backend written in Rust.
-28,Rust,surrealdb,19300,474,Rust,https://github.com/surrealdb/surrealdb,surrealdb,152,2023-04-03T17:31:16Z,"A scalable, distributed, collaborative, document-graph database, for the realtime web"
+28,Rust,surrealdb,19301,474,Rust,https://github.com/surrealdb/surrealdb,surrealdb,152,2023-04-03T17:31:16Z,"A scalable, distributed, collaborative, document-graph database, for the realtime web"
 29,Rust,iced,18559,805,Rust,https://github.com/iced-rs/iced,iced-rs,162,2023-04-04T00:09:45Z,"A cross-platform GUI library for Rust, inspired by Elm"
 30,Rust,sonic,18006,525,Rust,https://github.com/valeriansaliou/sonic,valeriansaliou,59,2023-03-10T20:37:20Z,"🦔 Fast, lightweight & schema-less search backend. An alternative to Elasticsearch that runs on a few MBs of RAM."
 31,Rust,relay,17682,1802,Rust,https://github.com/facebook/relay,facebook,423,2023-04-04T00:14:14Z,Relay is a JavaScript framework for building data-driven React applications.
 32,Rust,v86,17509,1240,Rust,https://github.com/copy/v86,copy,95,2023-03-14T19:13:17Z,"x86 virtualization in your browser, recompiling x86 to wasm on the fly"
-33,Rust,actix-web,17129,1485,Rust,https://github.com/actix/actix-web,actix,122,2023-04-02T04:58:46Z,"Actix Web is a powerful, pragmatic, and extremely fast web framework for Rust."
+33,Rust,actix-web,17130,1485,Rust,https://github.com/actix/actix-web,actix,122,2023-04-02T04:58:46Z,"Actix Web is a powerful, pragmatic, and extremely fast web framework for Rust."
 34,Rust,spacedrive,17017,460,Rust,https://github.com/spacedriveapp/spacedrive,spacedriveapp,26,2023-04-03T12:40:49Z,"Spacedrive is an open source cross-platform file explorer, powered by a virtual distributed filesystem written in Rust."
 35,Rust,delta,16959,290,Rust,https://github.com/dandavison/delta,dandavison,159,2023-04-03T06:59:25Z,"A syntax-highlighting pager for git, diff, and grep output"
 36,Rust,diem,16693,2600,Rust,https://github.com/diem/diem,diem,352,2023-04-03T12:49:43Z,Diem’s mission is to build a trusted and innovative financial network that empowers people and businesses around the world.
@@ -199,7 +199,7 @@ rank,item,repo_name,stars,forks,language,repo_url,username,issues,last_commit,de
 45,Rust,difftastic,14534,230,Rust,https://github.com/Wilfred/difftastic,Wilfred,106,2023-04-03T02:34:12Z,a structural diff that understands syntax 🟥🟩
 46,Rust,coreutils,14367,1011,Rust,https://github.com/uutils/coreutils,uutils,205,2023-04-03T15:58:55Z,Cross-platform Rust rewrite of the GNU coreutils
 47,Rust,egui,14340,1021,Rust,https://github.com/emilk/egui,emilk,381,2023-04-03T08:50:28Z,egui: an easy-to-use immediate mode GUI in Rust that runs on both web and native
-48,Rust,typst,14106,243,Rust,https://github.com/typst/typst,typst,195,2023-04-03T17:17:06Z,A new markup-based typesetting system that is powerful and easy to learn.
+48,Rust,typst,14107,243,Rust,https://github.com/typst/typst,typst,195,2023-04-03T17:17:06Z,A new markup-based typesetting system that is powerful and easy to learn.
 49,Rust,anki,13606,1695,Rust,https://github.com/ankitects/anki,ankitects,113,2023-04-03T02:51:30Z,Anki for desktop computers
 50,Rust,vector,13112,1045,Rust,https://github.com/vectordotdev/vector,vectordotdev,1493,2023-04-03T23:46:31Z,A high-performance observability data pipeline.
 51,Rust,Pake,13088,1075,Rust,https://github.com/tw93/Pake,tw93,3,2023-03-27T14:36:45Z,🤱🏻 Turn any webpage into a desktop app with Rust.  🤱🏻 很简单的用 Rust 打包网页生成很小的桌面 App
@@ -207,14 +207,14 @@ rank,item,repo_name,stars,forks,language,repo_url,username,issues,last_commit,de
 53,Rust,tikv,12881,1936,Rust,https://github.com/tikv/tikv,tikv,1010,2023-04-03T18:00:20Z,"Distributed transactional key-value database, originally created to complement TiDB"
 54,Rust,gitui,12701,397,Rust,https://github.com/extrawurst/gitui,extrawurst,112,2023-04-03T10:18:44Z,Blazing 💥 fast terminal-ui for git written in rust 🦀
 55,Rust,navi,12672,458,Rust,https://github.com/denisidoro/navi,denisidoro,51,2023-03-12T10:52:45Z,An interactive cheatsheet tool for the command-line
-56,Rust,ruffle,12141,620,Rust,https://github.com/ruffle-rs/ruffle,ruffle-rs,2487,2023-04-04T00:19:52Z,A Flash Player emulator written in Rust
+56,Rust,ruffle,12140,620,Rust,https://github.com/ruffle-rs/ruffle,ruffle-rs,2487,2023-04-04T00:19:52Z,A Flash Player emulator written in Rust
 57,Rust,carbonyl,11967,262,Rust,https://github.com/fathyb/carbonyl,fathyb,37,2023-03-29T16:51:01Z,Chromium running inside your terminal
-58,Rust,wasmtime,11904,954,Rust,https://github.com/bytecodealliance/wasmtime,bytecodealliance,509,2023-04-03T23:40:08Z,A fast and secure runtime for WebAssembly
+58,Rust,wasmtime,11904,954,Rust,https://github.com/bytecodealliance/wasmtime,bytecodealliance,509,2023-04-04T00:25:21Z,A fast and secure runtime for WebAssembly
 59,Rust,book,11899,2801,Rust,https://github.com/rust-lang/book,rust-lang,179,2023-04-03T17:12:25Z,The Rust Programming Language
 60,Rust,rust-analyzer,11729,1204,Rust,https://github.com/rust-lang/rust-analyzer,rust-lang,1217,2023-04-03T16:29:01Z,A Rust compiler front-end for IDEs
 61,Rust,hyper,11533,1346,Rust,https://github.com/hyperium/hyper,hyperium,182,2023-04-03T19:35:23Z,An HTTP library for Rust
 62,Rust,ruff,11433,357,Rust,https://github.com/charliermarsh/ruff,charliermarsh,242,2023-04-03T23:47:26Z,"An extremely fast Python linter, written in Rust."
-63,Rust,tree-sitter,11386,682,Rust,https://github.com/tree-sitter/tree-sitter,tree-sitter,356,2023-04-04T00:19:24Z,An incremental parsing system for programming tools
+63,Rust,tree-sitter,11386,682,Rust,https://github.com/tree-sitter/tree-sitter,tree-sitter,356,2023-04-04T00:39:35Z,An incremental parsing system for programming tools
 64,Rust,just,11326,281,Rust,https://github.com/casey/just,casey,173,2023-03-29T14:38:28Z,🤖 Just a command runner
 65,Rust,fnm,11186,313,Rust,https://github.com/Schniz/fnm,Schniz,97,2023-03-30T18:04:09Z,"🚀 Fast and simple Node.js version manager, built in Rust"
 66,Rust,zellij,11182,341,Rust,https://github.com/zellij-org/zellij,zellij-org,420,2023-04-03T16:55:28Z,A terminal workspace with batteries included
@@ -223,17 +223,17 @@ rank,item,repo_name,stars,forks,language,repo_url,username,issues,last_commit,de
 69,Rust,clap,11054,911,Rust,https://github.com/clap-rs/clap,clap-rs,209,2023-04-03T21:32:47Z,"A full featured, fast Command Line Argument Parser for Rust"
 70,Rust,rust-raspberrypi-OS-tutorials,10780,647,Rust,https://github.com/rust-embedded/rust-raspberrypi-OS-tutorials,rust-embedded,1,2023-03-09T11:19:03Z,:books: Learn to write an embedded OS in Rust :crab:
 71,Rust,zola,10655,754,Rust,https://github.com/getzola/zola,getzola,161,2023-04-03T06:27:24Z,A fast static site generator in a single binary with everything built-in. https://www.getzola.org
-72,Rust,diesel,10179,896,Rust,https://github.com/diesel-rs/diesel,diesel-rs,95,2023-03-31T10:29:00Z,"A safe, extensible ORM and Query Builder for Rust"
-73,Rust,solana,10148,2813,Rust,https://github.com/solana-labs/solana,solana-labs,777,2023-04-03T23:28:40Z,"Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces."
-74,Rust,cargo,10136,1978,Rust,https://github.com/rust-lang/cargo,rust-lang,1374,2023-04-03T23:48:00Z,The Rust package manager
+72,Rust,diesel,10180,896,Rust,https://github.com/diesel-rs/diesel,diesel-rs,95,2023-03-31T10:29:00Z,"A safe, extensible ORM and Query Builder for Rust"
+73,Rust,solana,10148,2813,Rust,https://github.com/solana-labs/solana,solana-labs,777,2023-04-04T00:38:59Z,"Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces."
+74,Rust,cargo,10136,1978,Rust,https://github.com/rust-lang/cargo,rust-lang,1374,2023-04-04T00:32:31Z,The Rust package manager
 75,Rust,tui-rs,10111,481,Rust,https://github.com/fdehau/tui-rs,fdehau,92,2023-03-20T10:41:35Z,Build terminal user interfaces and dashboards using Rust
 76,Rust,py-spy,10005,353,Rust,https://github.com/benfred/py-spy,benfred,100,2023-03-23T01:31:15Z,Sampling profiler for Python programs
-77,Rust,zoxide,9964,357,Rust,https://github.com/ajeetdsouza/zoxide,ajeetdsouza,36,2023-03-19T09:50:28Z,A smarter cd command. Supports all major shells.
-78,Rust,czkawka,9956,279,Rust,https://github.com/qarmin/czkawka,qarmin,255,2023-04-02T15:34:25Z,"Multi functional app to find duplicates, empty folders, similar images etc."
+77,Rust,zoxide,9965,357,Rust,https://github.com/ajeetdsouza/zoxide,ajeetdsouza,36,2023-03-19T09:50:28Z,A smarter cd command. Supports all major shells.
+78,Rust,czkawka,9957,279,Rust,https://github.com/qarmin/czkawka,qarmin,255,2023-04-02T15:34:25Z,"Multi functional app to find duplicates, empty folders, similar images etc."
 79,Rust,neovide,9855,389,Rust,https://github.com/neovide/neovide,neovide,354,2023-03-26T22:41:42Z,No Nonsense Neovim Client in Rust
 80,Rust,RustScan,9604,689,Rust,https://github.com/RustScan/RustScan,RustScan,95,2023-03-04T18:19:36Z,🤖 The Modern Port Scanner 🤖
 81,Rust,lsd,9577,314,Rust,https://github.com/lsd-rs/lsd,lsd-rs,96,2023-04-03T08:01:25Z,The next gen ls command
-82,Rust,Infinite-Storage-Glitch,9508,683,Rust,https://github.com/DvorakDwarf/Infinite-Storage-Glitch,DvorakDwarf,0,2023-03-16T15:15:35Z,"ISG lets you use YouTube as cloud storage for ANY files, not just video"
+82,Rust,Infinite-Storage-Glitch,9509,684,Rust,https://github.com/DvorakDwarf/Infinite-Storage-Glitch,DvorakDwarf,0,2023-03-16T15:15:35Z,"ISG lets you use YouTube as cloud storage for ANY files, not just video"
 83,Rust,axum,9507,657,Rust,https://github.com/tokio-rs/axum,tokio-rs,19,2023-04-01T18:49:38Z,"Ergonomic and modular web framework built with Tokio, Tower, and Hyper"
 84,Rust,xsv,9282,296,Rust,https://github.com/BurntSushi/xsv,BurntSushi,108,2023-03-17T16:35:52Z,A fast CSV command line toolkit written in Rust.
 85,Rust,universal-android-debloater,9216,535,Rust,https://github.com/0x192/universal-android-debloater,0x192,237,2023-04-02T08:42:45Z,"Cross-platform GUI written in Rust using ADB to debloat non-rooted android devices. Improve your privacy, the security and battery life of your device."
@@ -243,12 +243,12 @@ rank,item,repo_name,stars,forks,language,repo_url,username,issues,last_commit,de
 89,Rust,talent-plan,8647,1138,Rust,https://github.com/pingcap/talent-plan,pingcap,96,2023-02-26T08:31:48Z,open source training courses about distributed database and distributed systems
 90,Rust,xray,8537,246,Rust,https://github.com/atom-archive/xray,atom-archive,16,2019-07-22T17:46:06Z,An experimental next-generation Electron-based text editor
 91,Rust,broot,8482,195,Rust,https://github.com/Canop/broot,Canop,165,2023-04-03T23:41:31Z,A new way to see and navigate directory trees : https://dystroy.org/broot
-92,Rust,rayon,8402,418,Rust,https://github.com/rayon-rs/rayon,rayon-rs,139,2023-03-16T04:41:08Z,Rayon: A data parallelism library for Rust
-93,Rust,sqlx,8401,856,Rust,https://github.com/launchbadge/sqlx,launchbadge,419,2023-03-31T19:08:21Z,"🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, SQLite, and MSSQL."
+92,Rust,sqlx,8402,856,Rust,https://github.com/launchbadge/sqlx,launchbadge,419,2023-03-31T19:08:21Z,"🧰 The Rust SQL Toolkit. An async, pure Rust SQL crate featuring compile-time checked queries without a DSL. Supports PostgreSQL, MySQL, SQLite, and MSSQL."
+93,Rust,rayon,8402,418,Rust,https://github.com/rayon-rs/rayon,rayon-rs,139,2023-03-16T04:41:08Z,Rayon: A data parallelism library for Rust
 94,Rust,windows-rs,8183,357,Rust,https://github.com/microsoft/windows-rs,microsoft,26,2023-04-03T21:59:27Z,Rust for Windows
 95,Rust,dioxus,8133,231,Rust,https://github.com/DioxusLabs/dioxus,DioxusLabs,102,2023-04-03T22:39:20Z,"React-like GUI library for desktop, web, mobile, tui, and more."
 96,Rust,substrate,8090,2565,Rust,https://github.com/paritytech/substrate,paritytech,1034,2023-04-03T23:02:13Z,Substrate: The platform for blockchain innovators
-97,Rust,pyo3,8082,525,Rust,https://github.com/PyO3/pyo3,PyO3,151,2023-03-30T10:05:58Z,Rust bindings for the Python interpreter
+97,Rust,pyo3,8083,525,Rust,https://github.com/PyO3/pyo3,PyO3,151,2023-03-30T10:05:58Z,Rust bindings for the Python interpreter
 98,Rust,tokei,8050,405,Rust,https://github.com/XAMPPRocky/tokei,XAMPPRocky,95,2023-04-01T19:08:40Z,"Count your code, quickly."
 99,Rust,wezterm,8004,387,Rust,https://github.com/wez/wezterm,wez,348,2023-04-04T00:05:29Z,A GPU-accelerated cross-platform terminal emulator and multiplexer written by @wez and implemented in Rust
 100,Rust,tantivy,7911,467,Rust,https://github.com/quickwit-oss/tantivy,quickwit-oss,225,2023-04-04T00:14:06Z,Tantivy is a full-text search engine library inspired by Apache Lucene and written in Rust
@@ -257,7 +257,7 @@ rank,item,repo_name,stars,forks,language,repo_url,username,issues,last_commit,de
 3,Move,liquidswap,126,57,Move,https://github.com/pontem-network/liquidswap,pontem-network,0,2023-02-21T22:02:19Z,AMM core smart contracts
 4,Move,move-by-example,121,2,Move,https://github.com/movefuns/move-by-example,movefuns,12,2022-11-01T00:26:24Z,Learn Move with examples
 5,Move,econia,102,32,Move,https://github.com/econia-labs/econia,econia-labs,19,2023-04-03T22:30:54Z,Hyper-parallelized on-chain order book for the Aptos blockchain
-6,Move,nft-protocol,87,37,Move,https://github.com/Origin-Byte/nft-protocol,Origin-Byte,13,2023-04-04T00:13:00Z,Sui NFT Smart contracts maintained by the Origin Byte team
+6,Move,nft-protocol,87,37,Move,https://github.com/Origin-Byte/nft-protocol,Origin-Byte,13,2023-04-04T00:37:02Z,Sui NFT Smart contracts maintained by the Origin Byte team
 7,Move,sui-move-intro-course,87,15,Move,https://github.com/sui-foundation/sui-move-intro-course,sui-foundation,0,2023-03-29T07:13:24Z,Introductory Course to the Sui Move language
 8,Move,xyk-amm-move,86,19,Move,https://github.com/pentagonxyz/xyk-amm-move,pentagonxyz,2,2022-09-14T03:04:54Z,Aubrium is a constant product AMM (like Uniswap V2) built in Move on Sui and Aptos for swapping coins.
 9,Move,pontem,72,64,Move,https://github.com/pontem-network/pontem,pontem-network,2,2022-11-19T17:01:43Z,🚀 Pontem Parachain node with Move VM onboard.
@@ -314,8 +314,8 @@ rank,item,repo_name,stars,forks,language,repo_url,username,issues,last_commit,de
 60,Move,0to1swap,9,5,Move,https://github.com/movefuns/0to1swap,movefuns,0,2022-10-25T14:19:41Z,
 61,Move,fantoken-tutorial,8,12,Move,https://github.com/0xNeit/fantoken-tutorial,0xNeit,0,2022-10-21T07:10:35Z,
 62,Move,lotus-contract,8,2,Move,https://github.com/myastrallabs/lotus-contract,myastrallabs,0,2023-01-14T06:07:25Z,"Proj Lotus Contract, NFT Marketplace Based on Aptos."
-63,Move,Dmens,8,5,Move,https://github.com/coming-chat/Dmens,coming-chat,0,2023-03-28T08:25:22Z,Decentralized Moments which is  a Blockchain Twitter Protocol  built on the Sui network
-64,Move,satoshi-coin-flip,8,1,Move,https://github.com/MystenLabs/satoshi-coin-flip,MystenLabs,0,2023-03-09T10:56:15Z,Contains the implementation (with frontend) of a POC for the Time-locked Satoshi Coin Flip
+63,Move,satoshi-coin-flip,8,1,Move,https://github.com/MystenLabs/satoshi-coin-flip,MystenLabs,0,2023-03-09T10:56:15Z,Contains the implementation (with frontend) of a POC for the Time-locked Satoshi Coin Flip
+64,Move,Dmens,8,5,Move,https://github.com/coming-chat/Dmens,coming-chat,0,2023-03-28T08:25:22Z,Decentralized Moments which is  a Blockchain Twitter Protocol  built on the Sui network
 65,Move,test-coins,8,6,Move,https://github.com/pontem-network/test-coins,pontem-network,1,2022-12-13T08:51:48Z,Liquidswap Testcoins
 66,Move,aptos-cid,8,2,Move,https://github.com/coming-chat/aptos-cid,coming-chat,0,2022-11-01T03:34:41Z,"Decentralized Identity on Aptos, the underlying account system of ComingChat"
 67,Move,sui-axelar,7,3,Move,https://github.com/MystenLabs/sui-axelar,MystenLabs,2,2023-02-17T16:49:27Z,
@@ -355,7 +355,7 @@ rank,item,repo_name,stars,forks,language,repo_url,username,issues,last_commit,de
 1,Cairo,kakarot,334,69,Cairo,https://github.com/sayajin-labs/kakarot,sayajin-labs,20,2023-04-02T07:17:42Z,"ZK-EVM type 3 written in Cairo, leveraging STARK proof system."
 2,Cairo,ZeroSync,243,27,Cairo,https://github.com/ZeroSync/ZeroSync,ZeroSync,3,2023-04-03T21:08:14Z,A STARK proof to sync a Bitcoin full node in an instant.
 3,Cairo,starknet-cairo-101,193,84,Cairo,https://github.com/starknet-edu/starknet-cairo-101,starknet-edu,10,2023-04-03T13:31:33Z,Learn how to read Cairo code
-4,Cairo,starklings-cairo1,148,52,Cairo,https://github.com/shramee/starklings-cairo1,shramee,6,2023-04-02T18:25:44Z,An interactive tutorial to get you up and running with Cairo v1 and Starknet
+4,Cairo,starklings-cairo1,149,52,Cairo,https://github.com/shramee/starklings-cairo1,shramee,6,2023-04-02T18:25:44Z,An interactive tutorial to get you up and running with Cairo v1 and Starknet
 5,Cairo,RYO,107,16,Cairo,https://github.com/dopedao/RYO,dopedao,1,2022-05-16T16:06:10Z,Dope Wars game engine on StarkNet L2 roll-up
 6,Cairo,contract,95,44,Cairo,https://github.com/age-of-eykar/contract,age-of-eykar,0,2022-11-15T17:54:46Z,The StarkNet Eykar smartcontract written in cairo. A decentralized game of conquest powered by blockchain. An almost infinite territory that can be conquered through alliances and wars.
 7,Cairo,contract,90,45,Cairo,https://github.com/starknet-id/contract,starknet-id,1,2023-03-10T12:12:00Z,Contract of the starknet identity base NFT

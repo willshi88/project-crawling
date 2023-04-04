@@ -8,7 +8,7 @@
 | 1 | [kakarot](https://github.com/sayajin-labs/kakarot) | 334 | 69 | Cairo | 20 | ZK-EVM type 3 written in Cairo, leveraging STARK proof system. | 2023-04-02T07:17:42Z |
 | 2 | [ZeroSync](https://github.com/ZeroSync/ZeroSync) | 243 | 27 | Cairo | 3 | A STARK proof to sync a Bitcoin full node in an instant. | 2023-04-03T21:08:14Z |
 | 3 | [starknet-cairo-101](https://github.com/starknet-edu/starknet-cairo-101) | 193 | 84 | Cairo | 10 | Learn how to read Cairo code | 2023-04-03T13:31:33Z |
-| 4 | [starklings-cairo1](https://github.com/shramee/starklings-cairo1) | 148 | 52 | Cairo | 6 | An interactive tutorial to get you up and running with Cairo v1 and Starknet | 2023-04-02T18:25:44Z |
+| 4 | [starklings-cairo1](https://github.com/shramee/starklings-cairo1) | 149 | 52 | Cairo | 6 | An interactive tutorial to get you up and running with Cairo v1 and Starknet | 2023-04-02T18:25:44Z |
 | 5 | [RYO](https://github.com/dopedao/RYO) | 107 | 16 | Cairo | 1 | Dope Wars game engine on StarkNet L2 roll-up | 2022-05-16T16:06:10Z |
 | 6 | [contract](https://github.com/age-of-eykar/contract) | 95 | 44 | Cairo | 0 | The StarkNet Eykar smartcontract written in cairo. A decentralized game of conquest powered by blockchain. An almost infinite territory that can be conquered through alliances and wars. | 2022-11-15T17:54:46Z |
 | 7 | [contract](https://github.com/starknet-id/contract) | 90 | 45 | Cairo | 1 | Contract of the starknet identity base NFT | 2023-03-10T12:12:00Z |
