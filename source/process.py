@@ -63,8 +63,8 @@ class ProcessorGQL(object):
         """
         self.bulk_size = 50
         self.bulk_count = 2
-        self.gql_stars = self.gql_format % ("stars:>1000 sort:stars", self.bulk_size, "%s")
-        self.gql_forks = self.gql_format % ("forks:>1000 sort:forks", self.bulk_size, "%s")
+        # self.gql_stars = self.gql_format % ("stars:>1000 sort:stars", self.bulk_size, "%s")
+        # self.gql_forks = self.gql_format % ("forks:>1000 sort:forks", self.bulk_size, "%s")
         self.gql_stars_lang = self.gql_format % ("language:%s stars:>0 sort:stars", self.bulk_size, "%s")
 
         self.col = ['rank', 'item', 'repo_name', 'stars', 'forks', 'language', 'repo_url', 'username', 'issues',
@@ -101,47 +101,28 @@ class ProcessorGQL(object):
 
     def get_all_repos(self):
         # get all repos of most stars and forks, and different languages
-        print("Get repos of most stars...")
-        repos_stars = self.get_repos(self.gql_stars)
-        print("Get repos of most stars success!")
-
-        print("Get repos of most forks...")
-        repos_forks = self.get_repos(self.gql_forks)
-        print("Get repos of most forks success!")
+        # print("Get repos of most stars...")
+        # repos_stars = self.get_repos(self.gql_stars)
+        # print("Get repos of most stars success!")
+        #
+        # print("Get repos of most forks...")
+        # repos_forks = self.get_repos(self.gql_forks)
+        # print("Get repos of most forks success!")
 
         repos_languages = {}
         for lang in languages:
             print("Get most stars repos of {}...".format(lang))
             repos_languages[lang] = self.get_repos(self.gql_stars_lang % (lang, '%s'))
             print("Get most stars repos of {} success!".format(lang))
-        return repos_stars, repos_forks, repos_languages
+        return repos_languages
 
 
 class WriteFile(object):
-    def __init__(self, repos_stars, repos_forks, repos_languages):
-        self.repos_stars = repos_stars
-        self.repos_forks = repos_forks
+    def __init__(self, repos_languages):
         self.repos_languages = repos_languages
         self.col = ['rank', 'item', 'repo_name', 'stars', 'forks', 'language', 'repo_url', 'username', 'issues',
                     'last_commit', 'description']
         self.repo_list = []
-        self.repo_list.extend([{
-            "desc": "Stars",
-            "desc_md": "Stars",
-            "title_readme": "Most Stars",
-            "title_100": "Top 100 Stars",
-            "file_100": "Top-100-stars.md",
-            "data": repos_stars,
-            "item": "top-100-stars",
-        }, {
-            "desc": "Forks",
-            "desc_md": "Forks",
-            "title_readme": "Most Forks",
-            "title_100": "Top 100 Forks",
-            "file_100": "Top-100-forks.md",
-            "data": repos_forks,
-            "item": "top-100-forks",
-        }])
         for i in range(len(languages)):
             lang = languages[i]
             lang_md = languages_md[i]
@@ -216,8 +197,8 @@ def run_by_gql():
     os.chdir(os.path.join(ROOT_PATH, 'source'))
 
     processor = ProcessorGQL()  # use Github GraphQL API v4
-    repos_stars, repos_forks, repos_languages = processor.get_all_repos()
-    wt_obj = WriteFile(repos_stars, repos_forks, repos_languages)
+    repos_languages = processor.get_all_repos()
+    wt_obj = WriteFile(repos_languages)
     wt_obj.write_head_contents()
     wt_obj.write_readme_lang_md()
     wt_obj.save_to_csv()
