@@ -77,8 +77,8 @@
 | 70 | [securify2](https://github.com/eth-sri/securify2) | 480 | 98 | Solidity | 32 | Securify v2.0 | 2022-08-28T02:30:55Z |
 | 71 | [permit2](https://github.com/Uniswap/permit2) | 480 | 65 | Solidity | 4 | 🔑🔑🔑 next generation token approvals mechanism | 2023-03-08T18:00:31Z |
 | 72 | [optimism-tutorial](https://github.com/ethereum-optimism/optimism-tutorial) | 465 | 185 | Solidity | 1 | Build your first app on Optimism! | 2023-03-27T20:54:54Z |
-| 73 | [ctf-blockchain](https://github.com/minaminao/ctf-blockchain) | 464 | 33 | Solidity | 0 | A summary of 100+ CTF blockchain challenges | 2023-04-01T01:04:50Z |
-| 74 | [argent-contracts](https://github.com/argentlabs/argent-contracts) | 464 | 158 | Solidity | 4 | Smart Contracts for Argent Wallet | 2023-03-12T11:12:24Z |
+| 73 | [argent-contracts](https://github.com/argentlabs/argent-contracts) | 464 | 158 | Solidity | 4 | Smart Contracts for Argent Wallet | 2023-03-12T11:12:24Z |
+| 74 | [ctf-blockchain](https://github.com/minaminao/ctf-blockchain) | 464 | 33 | Solidity | 0 | A summary of 100+ CTF blockchain challenges | 2023-04-01T01:04:50Z |
 | 75 | [1inchProtocol](https://github.com/1inch/1inchProtocol) | 458 | 270 | Solidity | 40 | 1inch Protocol – fully on-chain DeFi aggregation protocol | 2021-10-27T22:22:40Z |
 | 76 | [sMEV](https://github.com/bertmiller/sMEV) | 448 | 102 | Solidity | 1 | None | 2021-09-06T10:59:41Z |
 | 77 | [chainlink-mix](https://github.com/smartcontractkit/chainlink-mix) | 447 | 178 | Solidity | 9 | Working with smart contracts with eth-brownie, python, and Chainlink.  | 2023-02-08T20:58:39Z |

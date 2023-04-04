@@ -3,7 +3,7 @@
 
 **A list of the most github stars and forks repositories.**
 
-*Last Update Time: 2023-04-04T00:39:52Z*
+*Last Update Time: 2023-04-04T00:53:49Z*
 
 ## Table of Contents
 * [Solidity](#solidity)
@@ -56,14 +56,14 @@ This is top 10, for more click **[Top 100 Stars in Rust](Top100/Rust.md)**
 | ------- | ------------ | ----- | ----- | -------- | ----------- | ----------- | ----------- |
 | 1 | [deno](https://github.com/denoland/deno) | 88770 | 4810 | Rust | 1216 | A modern runtime for JavaScript and TypeScript. | 2023-04-04T00:31:18Z |
 | 2 | [rust](https://github.com/rust-lang/rust) | 79778 | 10593 | Rust | 8860 | Empowering everyone to build reliable and efficient software. | 2023-04-04T00:34:48Z |
-| 3 | [tauri](https://github.com/tauri-apps/tauri) | 61730 | 1638 | Rust | 393 | Build smaller, faster, and more secure desktop applications with a web frontend. | 2023-04-04T00:17:18Z |
-| 4 | [alacritty](https://github.com/alacritty/alacritty) | 45837 | 2734 | Rust | 304 | A cross-platform, OpenGL terminal emulator. | 2023-04-03T22:58:07Z |
-| 5 | [bat](https://github.com/sharkdp/bat) | 40507 | 1060 | Rust | 176 | A cat(1) clone with wings. | 2023-04-01T02:58:15Z |
-| 6 | [rustdesk](https://github.com/rustdesk/rustdesk) | 40123 | 3798 | Rust | 114 | Virtual / remote desktop infrastructure for everyone! Open source TeamViewer / Citrix alternative. | 2023-04-04T00:15:09Z |
-| 7 | [ripgrep](https://github.com/BurntSushi/ripgrep) | 36963 | 1653 | Rust | 143 | ripgrep recursively searches directories for a regex pattern while respecting your gitignore | 2023-04-03T19:13:14Z |
-| 8 | [rustlings](https://github.com/rust-lang/rustlings) | 36602 | 6266 | Rust | 92 | :crab: Small exercises to get you used to reading and writing Rust code! | 2023-04-02T10:46:50Z |
-| 9 | [meilisearch](https://github.com/meilisearch/meilisearch) | 35353 | 1276 | Rust | 115 | A lightning-fast search engine that fits effortlessly into your apps, websites, and workflow. | 2023-04-03T19:14:45Z |
-| 10 | [awesome-rust](https://github.com/rust-unofficial/awesome-rust) | 33627 | 2135 | Rust | 11 | A curated list of Rust code and resources. | 2023-04-03T19:45:14Z |
+| 3 | [alacritty](https://github.com/alacritty/alacritty) | 45837 | 2734 | Rust | 304 | A cross-platform, OpenGL terminal emulator. | 2023-04-03T22:58:07Z |
+| 4 | [bat](https://github.com/sharkdp/bat) | 40507 | 1060 | Rust | 176 | A cat(1) clone with wings. | 2023-04-01T02:58:15Z |
+| 5 | [rustdesk](https://github.com/rustdesk/rustdesk) | 40123 | 3798 | Rust | 114 | Virtual / remote desktop infrastructure for everyone! Open source TeamViewer / Citrix alternative. | 2023-04-04T00:15:09Z |
+| 6 | [ripgrep](https://github.com/BurntSushi/ripgrep) | 36963 | 1653 | Rust | 143 | ripgrep recursively searches directories for a regex pattern while respecting your gitignore | 2023-04-03T19:13:14Z |
+| 7 | [rustlings](https://github.com/rust-lang/rustlings) | 36602 | 6266 | Rust | 92 | :crab: Small exercises to get you used to reading and writing Rust code! | 2023-04-02T10:46:50Z |
+| 8 | [awesome-rust](https://github.com/rust-unofficial/awesome-rust) | 33628 | 2135 | Rust | 11 | A curated list of Rust code and resources. | 2023-04-03T19:45:14Z |
+| 9 | [starship](https://github.com/starship/starship) | 33508 | 1434 | Rust | 419 | ☄🌌️  The minimal, blazing-fast, and infinitely customizable prompt for any shell! | 2023-04-03T20:43:15Z |
+| 10 | [ChatGPT](https://github.com/lencx/ChatGPT) | 29272 | 2993 | Rust | 289 | 🔮 ChatGPT Desktop Application (Mac, Windows and Linux) | 2023-04-02T04:55:01Z |
 
 
 ## Move
